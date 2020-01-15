@@ -1,0 +1,117 @@
+.pokemon {
+    margin-bottom: 0px;
+    transform: scale(1);
+    -moz-transform: scale(1);
+    -webkit-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+}
+
+.backgroud-pokemon {
+    width: 150px;
+    height: 140px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.battle-backs {
+    width: 250px;
+    margin-top: 70px;
+}
+
+.pokemon-contant {
+    position: absolute;
+}
+
+.effect-background {
+    width: 250px;
+    z-index: 1000;
+}
+
+.effect-background .shiny-first {
+    width: 200px;
+    height: 195px;
+    z-index: 1000;
+    position: absolute;
+}
+
+.effect-background .shiny-second {
+    width: 200px;
+    height: 195px;
+    z-index: 1000;
+    position: absolute;
+}
+
+.attack-enemy {
+    width: 200px;
+    height: 195px;
+    z-index: 1000;
+}
+
+.attack-enemy img {
+    width: 100px;
+}
+
+.animation-attack {
+    -webkit-animation-name: example;
+    /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 0.25s;
+    /* Safari 4.0 - 8.0 */
+    -webkit-animation-delay: 0s;
+    /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 0.25s;
+    animation-delay: -0s;
+}
+
+
+/* Safari 4.0 - 8.0 */
+
+@-webkit-keyframes example {
+    0% {
+        padding-left: 15px;
+        padding-right: 0px;
+    }
+    25% {
+        padding-left: 0px;
+        padding-right: 15px;
+    }
+    50% {
+        padding-left: 15px;
+        padding-right: 0px;
+    }
+    75% {
+        padding-left: 0px;
+        padding-right: 15px;
+    }
+    100% {
+        padding-left: 15px;
+        padding-right: 0px;
+    }
+}
+
+
+/* Standard syntax */
+
+@keyframes example {
+    0% {
+        padding-left: 15px;
+        padding-right: 0px;
+    }
+    25% {
+        padding-left: 0px;
+        padding-right: 15px;
+    }
+    50% {
+        padding-left: 15px;
+        padding-right: 0px;
+    }
+    75% {
+        padding-left: 0px;
+        padding-right: 15px;
+    }
+    100% {
+        padding-left: 15px;
+        padding-right: 0px;
+    }
+}

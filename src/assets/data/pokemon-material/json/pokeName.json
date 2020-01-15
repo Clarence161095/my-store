@@ -1,0 +1,6170 @@
+[
+  {
+    "no": "001",
+    "name": "bulbasaur",
+    "height": "0.7",
+    "weight": "6.9"
+  },
+  {
+    "no": "002",
+    "name": "ivysaur",
+    "height": "1.0",
+    "weight": "13.0"
+  },
+  {
+    "no": "003",
+    "name": "venusaur",
+    "height": "2.0",
+    "weight": "100.0"
+  },
+  {
+    "no": "003",
+    "name": "venusaur",
+    "height": "2.0",
+    "weight": "100.0"
+  },
+  {
+    "no": "004",
+    "name": "charmander",
+    "height": "0.6",
+    "weight": "8.5"
+  },
+  {
+    "no": "005",
+    "name": "charmeleon",
+    "height": "1.1",
+    "weight": "19.0"
+  },
+  {
+    "no": "006",
+    "name": "charizard",
+    "height": "1.7",
+    "weight": "90.5"
+  },
+  {
+    "no": "006",
+    "name": "charizard",
+    "height": "1.7",
+    "weight": "90.5"
+  },
+  {
+    "no": "006",
+    "name": "charizard",
+    "height": "1.7",
+    "weight": "90.5"
+  },
+  {
+    "no": "007",
+    "name": "squirtle",
+    "height": "0.5",
+    "weight": "9.0"
+  },
+  {
+    "no": "008",
+    "name": "wartortle",
+    "height": "1.0",
+    "weight": "22.5"
+  },
+  {
+    "no": "009",
+    "name": "blastoise",
+    "height": "1.6",
+    "weight": "85.5"
+  },
+  {
+    "no": "009",
+    "name": "blastoise",
+    "height": "1.6",
+    "weight": "85.5"
+  },
+  {
+    "no": "010",
+    "name": "caterpie",
+    "height": "0.3",
+    "weight": "2.9"
+  },
+  {
+    "no": "011",
+    "name": "metapod",
+    "height": "0.7",
+    "weight": "9.9"
+  },
+  {
+    "no": "012",
+    "name": "butterfree",
+    "height": "1.1",
+    "weight": "32.0"
+  },
+  {
+    "no": "013",
+    "name": "weedle",
+    "height": "0.3",
+    "weight": "3.2"
+  },
+  {
+    "no": "014",
+    "name": "kakuna",
+    "height": "0.6",
+    "weight": "10.0"
+  },
+  {
+    "no": "015",
+    "name": "beedrill",
+    "height": "1.0",
+    "weight": "29.5"
+  },
+  {
+    "no": "015",
+    "name": "beedrill",
+    "height": "1.0",
+    "weight": "29.5"
+  },
+  {
+    "no": "016",
+    "name": "pidgey",
+    "height": "0.3",
+    "weight": "1.8"
+  },
+  {
+    "no": "017",
+    "name": "pidgeotto",
+    "height": "1.1",
+    "weight": "30.0"
+  },
+  {
+    "no": "018",
+    "name": "pidgeot",
+    "height": "1.5",
+    "weight": "39.5"
+  },
+  {
+    "no": "018",
+    "name": "pidgeot",
+    "height": "1.5",
+    "weight": "39.5"
+  },
+  {
+    "no": "019",
+    "name": "rattata",
+    "height": "0.3",
+    "weight": "3.5"
+  },
+  {
+    "no": "019",
+    "name": "rattata",
+    "height": "0.3",
+    "weight": "3.5"
+  },
+  {
+    "no": "020",
+    "name": "raticate",
+    "height": "0.7",
+    "weight": "18.5"
+  },
+  {
+    "no": "020",
+    "name": "raticate",
+    "height": "0.7",
+    "weight": "18.5"
+  },
+  {
+    "no": "021",
+    "name": "spearow",
+    "height": "0.3",
+    "weight": "2.0"
+  },
+  {
+    "no": "022",
+    "name": "fearow",
+    "height": "1.2",
+    "weight": "38.0"
+  },
+  {
+    "no": "023",
+    "name": "ekans",
+    "height": "2.0",
+    "weight": "6.9"
+  },
+  {
+    "no": "024",
+    "name": "arbok",
+    "height": "3.5",
+    "weight": "65.0"
+  },
+  {
+    "no": "025",
+    "name": "pikachu",
+    "height": "0.4",
+    "weight": "6.0"
+  },
+  {
+    "no": "025",
+    "name": "pikachu",
+    "height": "0.4",
+    "weight": "6.0"
+  },
+  {
+    "no": "026",
+    "name": "raichu",
+    "height": "0.8",
+    "weight": "30.0"
+  },
+  {
+    "no": "026",
+    "name": "raichu",
+    "height": "0.8",
+    "weight": "30.0"
+  },
+  {
+    "no": "027",
+    "name": "sandshrew",
+    "height": "0.6",
+    "weight": "12.0"
+  },
+  {
+    "no": "027",
+    "name": "sandshrew",
+    "height": "0.6",
+    "weight": "12.0"
+  },
+  {
+    "no": "028",
+    "name": "sandslash",
+    "height": "1.0",
+    "weight": "29.5"
+  },
+  {
+    "no": "028",
+    "name": "sandslash",
+    "height": "1.0",
+    "weight": "29.5"
+  },
+  {
+    "no": "029",
+    "name": "nidoran-f",
+    "height": "0.4",
+    "weight": "7.0"
+  },
+  {
+    "no": "030",
+    "name": "nidorina",
+    "height": "0.8",
+    "weight": "20.0"
+  },
+  {
+    "no": "031",
+    "name": "nidoqueen",
+    "height": "1.3",
+    "weight": "60.0"
+  },
+  {
+    "no": "032",
+    "name": "nidoran-f",
+    "height": "0.4",
+    "weight": "7.0"
+  },
+  {
+    "no": "033",
+    "name": "nidorino",
+    "height": "0.9",
+    "weight": "19.5"
+  },
+  {
+    "no": "034",
+    "name": "nidoking",
+    "height": "1.4",
+    "weight": "62.0"
+  },
+  {
+    "no": "035",
+    "name": "clefairy",
+    "height": "0.6",
+    "weight": "7.5"
+  },
+  {
+    "no": "036",
+    "name": "clefable",
+    "height": "1.3",
+    "weight": "40.0"
+  },
+  {
+    "no": "037",
+    "name": "vulpix",
+    "height": "0.6",
+    "weight": "9.9"
+  },
+  {
+    "no": "037",
+    "name": "vulpix",
+    "height": "0.6",
+    "weight": "9.9"
+  },
+  {
+    "no": "038",
+    "name": "ninetales",
+    "height": "1.1",
+    "weight": "19.9"
+  },
+  {
+    "no": "038",
+    "name": "ninetales",
+    "height": "1.1",
+    "weight": "19.9"
+  },
+  {
+    "no": "039",
+    "name": "jigglypuff",
+    "height": "0.5",
+    "weight": "5.5"
+  },
+  {
+    "no": "040",
+    "name": "wigglytuff",
+    "height": "1.0",
+    "weight": "12.0"
+  },
+  {
+    "no": "041",
+    "name": "zubat",
+    "height": "0.8",
+    "weight": "7.5"
+  },
+  {
+    "no": "042",
+    "name": "golbat",
+    "height": "1.6",
+    "weight": "55.0"
+  },
+  {
+    "no": "043",
+    "name": "oddish",
+    "height": "0.5",
+    "weight": "5.4"
+  },
+  {
+    "no": "044",
+    "name": "gloom",
+    "height": "0.8",
+    "weight": "8.6"
+  },
+  {
+    "no": "045",
+    "name": "vileplume",
+    "height": "1.2",
+    "weight": "18.6"
+  },
+  {
+    "no": "046",
+    "name": "paras",
+    "height": "0.3",
+    "weight": "5.4"
+  },
+  {
+    "no": "047",
+    "name": "parasect",
+    "height": "1.0",
+    "weight": "29.5"
+  },
+  {
+    "no": "048",
+    "name": "venonat",
+    "height": "1.0",
+    "weight": "30.0"
+  },
+  {
+    "no": "049",
+    "name": "venomoth",
+    "height": "1.5",
+    "weight": "12.5"
+  },
+  {
+    "no": "050",
+    "name": "diglett",
+    "height": "0.2",
+    "weight": "0.8"
+  },
+  {
+    "no": "050",
+    "name": "diglett",
+    "height": "0.2",
+    "weight": "0.8"
+  },
+  {
+    "no": "051",
+    "name": "dugtrio",
+    "height": "0.7",
+    "weight": "33.3"
+  },
+  {
+    "no": "051",
+    "name": "dugtrio",
+    "height": "0.7",
+    "weight": "33.3"
+  },
+  {
+    "no": "052",
+    "name": "meowth",
+    "height": "0.4",
+    "weight": "4.2"
+  },
+  {
+    "no": "052",
+    "name": "meowth",
+    "height": "0.4",
+    "weight": "4.2"
+  },
+  {
+    "no": "052",
+    "name": "meowth",
+    "height": "0.4",
+    "weight": "4.2"
+  },
+  {
+    "no": "053",
+    "name": "persian",
+    "height": "1.0",
+    "weight": "32.0"
+  },
+  {
+    "no": "053",
+    "name": "persian",
+    "height": "1.0",
+    "weight": "32.0"
+  },
+  {
+    "no": "054",
+    "name": "psyduck",
+    "height": "0.8",
+    "weight": "19.6"
+  },
+  {
+    "no": "055",
+    "name": "golduck",
+    "height": "1.7",
+    "weight": "76.6"
+  },
+  {
+    "no": "056",
+    "name": "mankey",
+    "height": "0.5",
+    "weight": "28.0"
+  },
+  {
+    "no": "057",
+    "name": "primeape",
+    "height": "1.0",
+    "weight": "32.0"
+  },
+  {
+    "no": "058",
+    "name": "growlithe",
+    "height": "0.7",
+    "weight": "19.0"
+  },
+  {
+    "no": "059",
+    "name": "arcanine",
+    "height": "1.9",
+    "weight": "155.0"
+  },
+  {
+    "no": "060",
+    "name": "poliwag",
+    "height": "0.6",
+    "weight": "12.4"
+  },
+  {
+    "no": "061",
+    "name": "poliwhirl",
+    "height": "1.0",
+    "weight": "20.0"
+  },
+  {
+    "no": "062",
+    "name": "poliwrath",
+    "height": "1.3",
+    "weight": "54.0"
+  },
+  {
+    "no": "063",
+    "name": "abra",
+    "height": "0.9",
+    "weight": "19.5"
+  },
+  {
+    "no": "064",
+    "name": "kadabra",
+    "height": "1.3",
+    "weight": "56.5"
+  },
+  {
+    "no": "065",
+    "name": "alakazam",
+    "height": "1.5",
+    "weight": "48.0"
+  },
+  {
+    "no": "065",
+    "name": "alakazam",
+    "height": "1.5",
+    "weight": "48.0"
+  },
+  {
+    "no": "066",
+    "name": "machop",
+    "height": "0.8",
+    "weight": "19.5"
+  },
+  {
+    "no": "067",
+    "name": "machoke",
+    "height": "1.5",
+    "weight": "70.5"
+  },
+  {
+    "no": "068",
+    "name": "machamp",
+    "height": "1.6",
+    "weight": "130.0"
+  },
+  {
+    "no": "069",
+    "name": "bellsprout",
+    "height": "0.7",
+    "weight": "4.0"
+  },
+  {
+    "no": "070",
+    "name": "weepinbell",
+    "height": "1.0",
+    "weight": "6.4"
+  },
+  {
+    "no": "071",
+    "name": "victreebel",
+    "height": "1.7",
+    "weight": "15.5"
+  },
+  {
+    "no": "072",
+    "name": "tentacool",
+    "height": "0.9",
+    "weight": "45.5"
+  },
+  {
+    "no": "073",
+    "name": "tentacruel",
+    "height": "1.6",
+    "weight": "55.0"
+  },
+  {
+    "no": "074",
+    "name": "geodude",
+    "height": "0.4",
+    "weight": "20.0"
+  },
+  {
+    "no": "074",
+    "name": "geodude",
+    "height": "0.4",
+    "weight": "20.0"
+  },
+  {
+    "no": "075",
+    "name": "graveler",
+    "height": "1.0",
+    "weight": "105.0"
+  },
+  {
+    "no": "075",
+    "name": "graveler",
+    "height": "1.0",
+    "weight": "105.0"
+  },
+  {
+    "no": "076",
+    "name": "golem",
+    "height": "1.4",
+    "weight": "300.0"
+  },
+  {
+    "no": "076",
+    "name": "golem",
+    "height": "1.4",
+    "weight": "300.0"
+  },
+  {
+    "no": "077",
+    "name": "ponyta",
+    "height": "1.0",
+    "weight": "30.0"
+  },
+  {
+    "no": "077",
+    "name": "ponyta",
+    "height": "1.0",
+    "weight": "30.0"
+  },
+  {
+    "no": "078",
+    "name": "rapidash",
+    "height": "1.7",
+    "weight": "95.0"
+  },
+  {
+    "no": "078",
+    "name": "rapidash",
+    "height": "1.7",
+    "weight": "95.0"
+  },
+  {
+    "no": "079",
+    "name": "slowpoke",
+    "height": "1.2",
+    "weight": "36.0"
+  },
+  {
+    "no": "080",
+    "name": "slowbro",
+    "height": "1.6",
+    "weight": "78.5"
+  },
+  {
+    "no": "080",
+    "name": "slowbro",
+    "height": "1.6",
+    "weight": "78.5"
+  },
+  {
+    "no": "081",
+    "name": "magnemite",
+    "height": "0.3",
+    "weight": "6.0"
+  },
+  {
+    "no": "082",
+    "name": "magneton",
+    "height": "1.0",
+    "weight": "60.0"
+  },
+  {
+    "no": "083",
+    "name": "farfetchd",
+    "height": "0.8",
+    "weight": "15.0"
+  },
+  {
+    "no": "083",
+    "name": "farfetchd",
+    "height": "0.8",
+    "weight": "15.0"
+  },
+  {
+    "no": "084",
+    "name": "doduo",
+    "height": "1.4",
+    "weight": "39.2"
+  },
+  {
+    "no": "085",
+    "name": "dodrio",
+    "height": "1.8",
+    "weight": "85.2"
+  },
+  {
+    "no": "086",
+    "name": "seel",
+    "height": "1.1",
+    "weight": "90.0"
+  },
+  {
+    "no": "087",
+    "name": "dewgong",
+    "height": "1.7",
+    "weight": "120.0"
+  },
+  {
+    "no": "088",
+    "name": "grimer",
+    "height": "0.9",
+    "weight": "30.0"
+  },
+  {
+    "no": "088",
+    "name": "grimer",
+    "height": "0.9",
+    "weight": "30.0"
+  },
+  {
+    "no": "089",
+    "name": "muk",
+    "height": "1.2",
+    "weight": "30.0"
+  },
+  {
+    "no": "089",
+    "name": "muk",
+    "height": "1.2",
+    "weight": "30.0"
+  },
+  {
+    "no": "090",
+    "name": "shellder",
+    "height": "0.3",
+    "weight": "4.0"
+  },
+  {
+    "no": "091",
+    "name": "cloyster",
+    "height": "1.5",
+    "weight": "132.5"
+  },
+  {
+    "no": "092",
+    "name": "gastly",
+    "height": "1.3",
+    "weight": "0.1"
+  },
+  {
+    "no": "093",
+    "name": "haunter",
+    "height": "1.6",
+    "weight": "0.1"
+  },
+  {
+    "no": "094",
+    "name": "gengar",
+    "height": "1.5",
+    "weight": "40.5"
+  },
+  {
+    "no": "094",
+    "name": "gengar",
+    "height": "1.5",
+    "weight": "40.5"
+  },
+  {
+    "no": "095",
+    "name": "onix",
+    "height": "8.8",
+    "weight": "210.0"
+  },
+  {
+    "no": "096",
+    "name": "drowzee",
+    "height": "1.0",
+    "weight": "32.4"
+  },
+  {
+    "no": "097",
+    "name": "hypno",
+    "height": "1.6",
+    "weight": "75.6"
+  },
+  {
+    "no": "098",
+    "name": "krabby",
+    "height": "0.4",
+    "weight": "6.5"
+  },
+  {
+    "no": "099",
+    "name": "kingler",
+    "height": "1.3",
+    "weight": "60.0"
+  },
+  {
+    "no": "100",
+    "name": "voltorb",
+    "height": "0.5",
+    "weight": "10.4"
+  },
+  {
+    "no": "101",
+    "name": "electrode",
+    "height": "1.2",
+    "weight": "66.6"
+  },
+  {
+    "no": "102",
+    "name": "exeggcute",
+    "height": "0.4",
+    "weight": "2.5"
+  },
+  {
+    "no": "103",
+    "name": "exeggutor",
+    "height": "2.0",
+    "weight": "120.0"
+  },
+  {
+    "no": "103",
+    "name": "exeggutor",
+    "height": "2.0",
+    "weight": "120.0"
+  },
+  {
+    "no": "104",
+    "name": "cubone",
+    "height": "0.4",
+    "weight": "6.5"
+  },
+  {
+    "no": "105",
+    "name": "marowak",
+    "height": "1.0",
+    "weight": "45.0"
+  },
+  {
+    "no": "105",
+    "name": "marowak",
+    "height": "1.0",
+    "weight": "45.0"
+  },
+  {
+    "no": "106",
+    "name": "hitmonlee",
+    "height": "1.5",
+    "weight": "49.8"
+  },
+  {
+    "no": "107",
+    "name": "hitmonchan",
+    "height": "1.4",
+    "weight": "50.2"
+  },
+  {
+    "no": "108",
+    "name": "lickitung",
+    "height": "1.2",
+    "weight": "65.5"
+  },
+  {
+    "no": "109",
+    "name": "koffing",
+    "height": "0.6",
+    "weight": "1.0"
+  },
+  {
+    "no": "110",
+    "name": "weezing",
+    "height": "1.2",
+    "weight": "9.5"
+  },
+  {
+    "no": "110",
+    "name": "weezing",
+    "height": "1.2",
+    "weight": "9.5"
+  },
+  {
+    "no": "111",
+    "name": "rhyhorn",
+    "height": "1.0",
+    "weight": "115.0"
+  },
+  {
+    "no": "112",
+    "name": "rhydon",
+    "height": "1.9",
+    "weight": "120.0"
+  },
+  {
+    "no": "113",
+    "name": "chansey",
+    "height": "1.1",
+    "weight": "34.6"
+  },
+  {
+    "no": "114",
+    "name": "tangela",
+    "height": "1.0",
+    "weight": "35.0"
+  },
+  {
+    "no": "115",
+    "name": "kangaskhan",
+    "height": "2.2",
+    "weight": "80.0"
+  },
+  {
+    "no": "115",
+    "name": "kangaskhan",
+    "height": "2.2",
+    "weight": "80.0"
+  },
+  {
+    "no": "116",
+    "name": "horsea",
+    "height": "0.4",
+    "weight": "8.0"
+  },
+  {
+    "no": "117",
+    "name": "seadra",
+    "height": "1.2",
+    "weight": "25.0"
+  },
+  {
+    "no": "118",
+    "name": "goldeen",
+    "height": "0.6",
+    "weight": "15.0"
+  },
+  {
+    "no": "119",
+    "name": "seaking",
+    "height": "1.3",
+    "weight": "39.0"
+  },
+  {
+    "no": "120",
+    "name": "staryu",
+    "height": "0.8",
+    "weight": "34.5"
+  },
+  {
+    "no": "121",
+    "name": "starmie",
+    "height": "1.1",
+    "weight": "80.0"
+  },
+  {
+    "no": "122",
+    "name": "mr-mime",
+    "height": "1.3",
+    "weight": "54.5"
+  },
+  {
+    "no": "122",
+    "name": "mr-mime",
+    "height": "1.3",
+    "weight": "54.5"
+  },
+  {
+    "no": "123",
+    "name": "scyther",
+    "height": "1.5",
+    "weight": "56.0"
+  },
+  {
+    "no": "124",
+    "name": "jynx",
+    "height": "1.4",
+    "weight": "40.6"
+  },
+  {
+    "no": "125",
+    "name": "electabuzz",
+    "height": "1.1",
+    "weight": "30.0"
+  },
+  {
+    "no": "126",
+    "name": "magmar",
+    "height": "1.3",
+    "weight": "44.5"
+  },
+  {
+    "no": "127",
+    "name": "pinsir",
+    "height": "1.5",
+    "weight": "55.0"
+  },
+  {
+    "no": "127",
+    "name": "pinsir",
+    "height": "1.5",
+    "weight": "55.0"
+  },
+  {
+    "no": "128",
+    "name": "tauros",
+    "height": "1.4",
+    "weight": "88.4"
+  },
+  {
+    "no": "129",
+    "name": "magikarp",
+    "height": "0.9",
+    "weight": "10.0"
+  },
+  {
+    "no": "130",
+    "name": "gyarados",
+    "height": "6.5",
+    "weight": "235.0"
+  },
+  {
+    "no": "130",
+    "name": "gyarados",
+    "height": "6.5",
+    "weight": "235.0"
+  },
+  {
+    "no": "131",
+    "name": "lapras",
+    "height": "2.5",
+    "weight": "220.0"
+  },
+  {
+    "no": "132",
+    "name": "ditto",
+    "height": "0.3",
+    "weight": "4.0"
+  },
+  {
+    "no": "133",
+    "name": "eevee",
+    "height": "0.3",
+    "weight": "6.5"
+  },
+  {
+    "no": "133",
+    "name": "eevee",
+    "height": "0.3",
+    "weight": "6.5"
+  },
+  {
+    "no": "134",
+    "name": "vaporeon",
+    "height": "1.0",
+    "weight": "29.0"
+  },
+  {
+    "no": "135",
+    "name": "jolteon",
+    "height": "0.8",
+    "weight": "24.5"
+  },
+  {
+    "no": "136",
+    "name": "flareon",
+    "height": "0.9",
+    "weight": "25.0"
+  },
+  {
+    "no": "137",
+    "name": "porygon",
+    "height": "0.8",
+    "weight": "36.5"
+  },
+  {
+    "no": "138",
+    "name": "omanyte",
+    "height": "0.4",
+    "weight": "7.5"
+  },
+  {
+    "no": "139",
+    "name": "omastar",
+    "height": "1.0",
+    "weight": "35.0"
+  },
+  {
+    "no": "140",
+    "name": "kabuto",
+    "height": "0.5",
+    "weight": "11.5"
+  },
+  {
+    "no": "141",
+    "name": "kabutops",
+    "height": "1.3",
+    "weight": "40.5"
+  },
+  {
+    "no": "142",
+    "name": "aerodactyl",
+    "height": "1.8",
+    "weight": "59.0"
+  },
+  {
+    "no": "142",
+    "name": "aerodactyl",
+    "height": "1.8",
+    "weight": "59.0"
+  },
+  {
+    "no": "143",
+    "name": "snorlax",
+    "height": "2.1",
+    "weight": "460.0"
+  },
+  {
+    "no": "144",
+    "name": "articuno",
+    "height": "1.7",
+    "weight": "55.4"
+  },
+  {
+    "no": "145",
+    "name": "zapdos",
+    "height": "1.6",
+    "weight": "52.6"
+  },
+  {
+    "no": "146",
+    "name": "moltres",
+    "height": "2.0",
+    "weight": "60.0"
+  },
+  {
+    "no": "147",
+    "name": "dratini",
+    "height": "1.8",
+    "weight": "3.3"
+  },
+  {
+    "no": "148",
+    "name": "dragonair",
+    "height": "4.0",
+    "weight": "16.5"
+  },
+  {
+    "no": "149",
+    "name": "dragonite",
+    "height": "2.2",
+    "weight": "210.0"
+  },
+  {
+    "no": "150",
+    "name": "mewtwo",
+    "height": "2.0",
+    "weight": "122.0"
+  },
+  {
+    "no": "150",
+    "name": "mewtwo",
+    "height": "2.0",
+    "weight": "122.0"
+  },
+  {
+    "no": "150",
+    "name": "mewtwo",
+    "height": "2.0",
+    "weight": "122.0"
+  },
+  {
+    "no": "151",
+    "name": "mew",
+    "height": "0.4",
+    "weight": "4.0"
+  },
+  {
+    "no": "152",
+    "name": "chikorita",
+    "height": "0.9",
+    "weight": "6.4"
+  },
+  {
+    "no": "153",
+    "name": "bayleef",
+    "height": "1.2",
+    "weight": "15.8"
+  },
+  {
+    "no": "154",
+    "name": "meganium",
+    "height": "1.8",
+    "weight": "100.5"
+  },
+  {
+    "no": "155",
+    "name": "cyndaquil",
+    "height": "0.5",
+    "weight": "7.9"
+  },
+  {
+    "no": "156",
+    "name": "quilava",
+    "height": "0.9",
+    "weight": "19.0"
+  },
+  {
+    "no": "157",
+    "name": "typhlosion",
+    "height": "1.7",
+    "weight": "79.5"
+  },
+  {
+    "no": "158",
+    "name": "totodile",
+    "height": "0.6",
+    "weight": "9.5"
+  },
+  {
+    "no": "159",
+    "name": "croconaw",
+    "height": "1.1",
+    "weight": "25.0"
+  },
+  {
+    "no": "160",
+    "name": "feraligatr",
+    "height": "2.3",
+    "weight": "88.8"
+  },
+  {
+    "no": "161",
+    "name": "sentret",
+    "height": "0.8",
+    "weight": "6.0"
+  },
+  {
+    "no": "162",
+    "name": "furret",
+    "height": "1.8",
+    "weight": "32.5"
+  },
+  {
+    "no": "163",
+    "name": "hoothoot",
+    "height": "0.7",
+    "weight": "21.2"
+  },
+  {
+    "no": "164",
+    "name": "noctowl",
+    "height": "1.6",
+    "weight": "40.8"
+  },
+  {
+    "no": "165",
+    "name": "ledyba",
+    "height": "1.0",
+    "weight": "10.8"
+  },
+  {
+    "no": "166",
+    "name": "ledian",
+    "height": "1.4",
+    "weight": "35.6"
+  },
+  {
+    "no": "167",
+    "name": "spinarak",
+    "height": "0.5",
+    "weight": "8.5"
+  },
+  {
+    "no": "168",
+    "name": "ariados",
+    "height": "1.1",
+    "weight": "33.5"
+  },
+  {
+    "no": "169",
+    "name": "crobat",
+    "height": "1.8",
+    "weight": "75.0"
+  },
+  {
+    "no": "170",
+    "name": "chinchou",
+    "height": "0.5",
+    "weight": "12.0"
+  },
+  {
+    "no": "171",
+    "name": "lanturn",
+    "height": "1.2",
+    "weight": "22.5"
+  },
+  {
+    "no": "172",
+    "name": "pichu",
+    "height": "0.3",
+    "weight": "2.0"
+  },
+  {
+    "no": "173",
+    "name": "cleffa",
+    "height": "0.3",
+    "weight": "3.0"
+  },
+  {
+    "no": "174",
+    "name": "igglybuff",
+    "height": "0.3",
+    "weight": "1.0"
+  },
+  {
+    "no": "175",
+    "name": "togepi",
+    "height": "0.3",
+    "weight": "1.5"
+  },
+  {
+    "no": "176",
+    "name": "togetic",
+    "height": "0.6",
+    "weight": "3.2"
+  },
+  {
+    "no": "177",
+    "name": "natu",
+    "height": "0.2",
+    "weight": "2.0"
+  },
+  {
+    "no": "178",
+    "name": "xatu",
+    "height": "1.5",
+    "weight": "15.0"
+  },
+  {
+    "no": "179",
+    "name": "mareep",
+    "height": "0.6",
+    "weight": "7.8"
+  },
+  {
+    "no": "180",
+    "name": "flaaffy",
+    "height": "0.8",
+    "weight": "13.3"
+  },
+  {
+    "no": "181",
+    "name": "ampharos",
+    "height": "1.4",
+    "weight": "61.5"
+  },
+  {
+    "no": "181",
+    "name": "ampharos",
+    "height": "1.4",
+    "weight": "61.5"
+  },
+  {
+    "no": "182",
+    "name": "bellossom",
+    "height": "0.4",
+    "weight": "5.8"
+  },
+  {
+    "no": "183",
+    "name": "marill",
+    "height": "0.4",
+    "weight": "8.5"
+  },
+  {
+    "no": "184",
+    "name": "azumarill",
+    "height": "0.8",
+    "weight": "28.5"
+  },
+  {
+    "no": "185",
+    "name": "sudowoodo",
+    "height": "1.2",
+    "weight": "38.0"
+  },
+  {
+    "no": "186",
+    "name": "politoed",
+    "height": "1.1",
+    "weight": "33.9"
+  },
+  {
+    "no": "187",
+    "name": "hoppip",
+    "height": "0.4",
+    "weight": "0.5"
+  },
+  {
+    "no": "188",
+    "name": "skiploom",
+    "height": "0.6",
+    "weight": "1.0"
+  },
+  {
+    "no": "189",
+    "name": "jumpluff",
+    "height": "0.8",
+    "weight": "3.0"
+  },
+  {
+    "no": "190",
+    "name": "aipom",
+    "height": "0.8",
+    "weight": "11.5"
+  },
+  {
+    "no": "191",
+    "name": "sunkern",
+    "height": "0.3",
+    "weight": "1.8"
+  },
+  {
+    "no": "192",
+    "name": "sunflora",
+    "height": "0.8",
+    "weight": "8.5"
+  },
+  {
+    "no": "193",
+    "name": "yanma",
+    "height": "1.2",
+    "weight": "38.0"
+  },
+  {
+    "no": "194",
+    "name": "wooper",
+    "height": "0.4",
+    "weight": "8.5"
+  },
+  {
+    "no": "195",
+    "name": "quagsire",
+    "height": "1.4",
+    "weight": "75.0"
+  },
+  {
+    "no": "196",
+    "name": "espeon",
+    "height": "0.9",
+    "weight": "26.5"
+  },
+  {
+    "no": "197",
+    "name": "umbreon",
+    "height": "1.0",
+    "weight": "27.0"
+  },
+  {
+    "no": "198",
+    "name": "murkrow",
+    "height": "0.5",
+    "weight": "2.1"
+  },
+  {
+    "no": "199",
+    "name": "slowking",
+    "height": "2.0",
+    "weight": "79.5"
+  },
+  {
+    "no": "200",
+    "name": "misdreavus",
+    "height": "0.7",
+    "weight": "1.0"
+  },
+  {
+    "no": "201",
+    "name": "unown",
+    "height": "0.5",
+    "weight": "5.0"
+  },
+  {
+    "no": "202",
+    "name": "wobbuffet",
+    "height": "1.3",
+    "weight": "28.5"
+  },
+  {
+    "no": "203",
+    "name": "girafarig",
+    "height": "1.5",
+    "weight": "41.5"
+  },
+  {
+    "no": "204",
+    "name": "pineco",
+    "height": "0.6",
+    "weight": "7.2"
+  },
+  {
+    "no": "205",
+    "name": "forretress",
+    "height": "1.2",
+    "weight": "125.8"
+  },
+  {
+    "no": "206",
+    "name": "dunsparce",
+    "height": "1.5",
+    "weight": "14.0"
+  },
+  {
+    "no": "207",
+    "name": "gligar",
+    "height": "1.1",
+    "weight": "64.8"
+  },
+  {
+    "no": "208",
+    "name": "steelix",
+    "height": "9.2",
+    "weight": "400.0"
+  },
+  {
+    "no": "208",
+    "name": "steelix",
+    "height": "9.2",
+    "weight": "400.0"
+  },
+  {
+    "no": "209",
+    "name": "snubbull",
+    "height": "0.6",
+    "weight": "7.8"
+  },
+  {
+    "no": "210",
+    "name": "granbull",
+    "height": "1.4",
+    "weight": "48.7"
+  },
+  {
+    "no": "211",
+    "name": "qwilfish",
+    "height": "0.5",
+    "weight": "3.9"
+  },
+  {
+    "no": "212",
+    "name": "scizor",
+    "height": "1.8",
+    "weight": "118.0"
+  },
+  {
+    "no": "212",
+    "name": "scizor",
+    "height": "1.8",
+    "weight": "118.0"
+  },
+  {
+    "no": "213",
+    "name": "shuckle",
+    "height": "0.6",
+    "weight": "20.5"
+  },
+  {
+    "no": "214",
+    "name": "heracross",
+    "height": "1.5",
+    "weight": "54.0"
+  },
+  {
+    "no": "214",
+    "name": "heracross",
+    "height": "1.5",
+    "weight": "54.0"
+  },
+  {
+    "no": "215",
+    "name": "sneasel",
+    "height": "0.9",
+    "weight": "28.0"
+  },
+  {
+    "no": "216",
+    "name": "teddiursa",
+    "height": "0.6",
+    "weight": "8.8"
+  },
+  {
+    "no": "217",
+    "name": "ursaring",
+    "height": "1.8",
+    "weight": "125.8"
+  },
+  {
+    "no": "218",
+    "name": "slugma",
+    "height": "0.7",
+    "weight": "35.0"
+  },
+  {
+    "no": "219",
+    "name": "magcargo",
+    "height": "0.8",
+    "weight": "55.0"
+  },
+  {
+    "no": "220",
+    "name": "swinub",
+    "height": "0.4",
+    "weight": "6.5"
+  },
+  {
+    "no": "221",
+    "name": "piloswine",
+    "height": "1.1",
+    "weight": "55.8"
+  },
+  {
+    "no": "222",
+    "name": "corsola",
+    "height": "0.6",
+    "weight": "5.0"
+  },
+  {
+    "no": "222",
+    "name": "corsola",
+    "height": "0.6",
+    "weight": "5.0"
+  },
+  {
+    "no": "223",
+    "name": "remoraid",
+    "height": "0.6",
+    "weight": "12.0"
+  },
+  {
+    "no": "224",
+    "name": "octillery",
+    "height": "0.9",
+    "weight": "28.5"
+  },
+  {
+    "no": "225",
+    "name": "delibird",
+    "height": "0.9",
+    "weight": "16.0"
+  },
+  {
+    "no": "226",
+    "name": "mantine",
+    "height": "2.1",
+    "weight": "220.0"
+  },
+  {
+    "no": "227",
+    "name": "skarmory",
+    "height": "1.7",
+    "weight": "50.5"
+  },
+  {
+    "no": "228",
+    "name": "houndour",
+    "height": "0.6",
+    "weight": "10.8"
+  },
+  {
+    "no": "229",
+    "name": "houndoom",
+    "height": "1.4",
+    "weight": "35.0"
+  },
+  {
+    "no": "229",
+    "name": "houndoom",
+    "height": "1.4",
+    "weight": "35.0"
+  },
+  {
+    "no": "230",
+    "name": "kingdra",
+    "height": "1.8",
+    "weight": "152.0"
+  },
+  {
+    "no": "231",
+    "name": "phanpy",
+    "height": "0.5",
+    "weight": "33.5"
+  },
+  {
+    "no": "232",
+    "name": "donphan",
+    "height": "1.1",
+    "weight": "120.0"
+  },
+  {
+    "no": "233",
+    "name": "porygon",
+    "height": "0.8",
+    "weight": "36.5"
+  },
+  {
+    "no": "234",
+    "name": "stantler",
+    "height": "1.4",
+    "weight": "71.2"
+  },
+  {
+    "no": "235",
+    "name": "smeargle",
+    "height": "1.2",
+    "weight": "58.0"
+  },
+  {
+    "no": "236",
+    "name": "tyrogue",
+    "height": "0.7",
+    "weight": "21.0"
+  },
+  {
+    "no": "237",
+    "name": "hitmontop",
+    "height": "1.4",
+    "weight": "48.0"
+  },
+  {
+    "no": "238",
+    "name": "smoochum",
+    "height": "0.4",
+    "weight": "6.0"
+  },
+  {
+    "no": "239",
+    "name": "elekid",
+    "height": "0.6",
+    "weight": "23.5"
+  },
+  {
+    "no": "240",
+    "name": "magby",
+    "height": "0.7",
+    "weight": "21.4"
+  },
+  {
+    "no": "241",
+    "name": "miltank",
+    "height": "1.2",
+    "weight": "75.5"
+  },
+  {
+    "no": "242",
+    "name": "blissey",
+    "height": "1.5",
+    "weight": "46.8"
+  },
+  {
+    "no": "243",
+    "name": "raikou",
+    "height": "1.9",
+    "weight": "178.0"
+  },
+  {
+    "no": "244",
+    "name": "entei",
+    "height": "2.1",
+    "weight": "198.0"
+  },
+  {
+    "no": "245",
+    "name": "suicune",
+    "height": "2.0",
+    "weight": "187.0"
+  },
+  {
+    "no": "246",
+    "name": "larvitar",
+    "height": "0.6",
+    "weight": "72.0"
+  },
+  {
+    "no": "247",
+    "name": "pupitar",
+    "height": "1.2",
+    "weight": "152.0"
+  },
+  {
+    "no": "248",
+    "name": "tyranitar",
+    "height": "2.0",
+    "weight": "202.0"
+  },
+  {
+    "no": "248",
+    "name": "tyranitar",
+    "height": "2.0",
+    "weight": "202.0"
+  },
+  {
+    "no": "249",
+    "name": "lugia",
+    "height": "5.2",
+    "weight": "216.0"
+  },
+  {
+    "no": "250",
+    "name": "ho-oh",
+    "height": "3.8",
+    "weight": "199.0"
+  },
+  {
+    "no": "251",
+    "name": "celebi",
+    "height": "0.6",
+    "weight": "5.0"
+  },
+  {
+    "no": "252",
+    "name": "treecko",
+    "height": "0.5",
+    "weight": "5.0"
+  },
+  {
+    "no": "253",
+    "name": "grovyle",
+    "height": "0.9",
+    "weight": "21.6"
+  },
+  {
+    "no": "254",
+    "name": "sceptile",
+    "height": "1.7",
+    "weight": "52.2"
+  },
+  {
+    "no": "254",
+    "name": "sceptile",
+    "height": "1.7",
+    "weight": "52.2"
+  },
+  {
+    "no": "255",
+    "name": "torchic",
+    "height": "0.4",
+    "weight": "2.5"
+  },
+  {
+    "no": "256",
+    "name": "combusken",
+    "height": "0.9",
+    "weight": "19.5"
+  },
+  {
+    "no": "257",
+    "name": "blaziken",
+    "height": "1.9",
+    "weight": "52.0"
+  },
+  {
+    "no": "257",
+    "name": "blaziken",
+    "height": "1.9",
+    "weight": "52.0"
+  },
+  {
+    "no": "258",
+    "name": "mudkip",
+    "height": "0.4",
+    "weight": "7.6"
+  },
+  {
+    "no": "259",
+    "name": "marshtomp",
+    "height": "0.7",
+    "weight": "28.0"
+  },
+  {
+    "no": "260",
+    "name": "swampert",
+    "height": "1.5",
+    "weight": "81.9"
+  },
+  {
+    "no": "260",
+    "name": "swampert",
+    "height": "1.5",
+    "weight": "81.9"
+  },
+  {
+    "no": "261",
+    "name": "poochyena",
+    "height": "0.5",
+    "weight": "13.6"
+  },
+  {
+    "no": "262",
+    "name": "mightyena",
+    "height": "1.0",
+    "weight": "37.0"
+  },
+  {
+    "no": "263",
+    "name": "zigzagoon",
+    "height": "0.4",
+    "weight": "17.5"
+  },
+  {
+    "no": "263",
+    "name": "zigzagoon",
+    "height": "0.4",
+    "weight": "17.5"
+  },
+  {
+    "no": "264",
+    "name": "linoone",
+    "height": "0.5",
+    "weight": "32.5"
+  },
+  {
+    "no": "264",
+    "name": "linoone",
+    "height": "0.5",
+    "weight": "32.5"
+  },
+  {
+    "no": "265",
+    "name": "wurmple",
+    "height": "0.3",
+    "weight": "3.6"
+  },
+  {
+    "no": "266",
+    "name": "silcoon",
+    "height": "0.6",
+    "weight": "10.0"
+  },
+  {
+    "no": "267",
+    "name": "beautifly",
+    "height": "1.0",
+    "weight": "28.4"
+  },
+  {
+    "no": "268",
+    "name": "cascoon",
+    "height": "0.7",
+    "weight": "11.5"
+  },
+  {
+    "no": "269",
+    "name": "dustox",
+    "height": "1.2",
+    "weight": "31.6"
+  },
+  {
+    "no": "270",
+    "name": "lotad",
+    "height": "0.5",
+    "weight": "2.6"
+  },
+  {
+    "no": "271",
+    "name": "lombre",
+    "height": "1.2",
+    "weight": "32.5"
+  },
+  {
+    "no": "272",
+    "name": "ludicolo",
+    "height": "1.5",
+    "weight": "55.0"
+  },
+  {
+    "no": "273",
+    "name": "seedot",
+    "height": "0.5",
+    "weight": "4.0"
+  },
+  {
+    "no": "274",
+    "name": "nuzleaf",
+    "height": "1.0",
+    "weight": "28.0"
+  },
+  {
+    "no": "275",
+    "name": "shiftry",
+    "height": "1.3",
+    "weight": "59.6"
+  },
+  {
+    "no": "276",
+    "name": "taillow",
+    "height": "0.3",
+    "weight": "2.3"
+  },
+  {
+    "no": "277",
+    "name": "swellow",
+    "height": "0.7",
+    "weight": "19.8"
+  },
+  {
+    "no": "278",
+    "name": "wingull",
+    "height": "0.6",
+    "weight": "9.5"
+  },
+  {
+    "no": "279",
+    "name": "pelipper",
+    "height": "1.2",
+    "weight": "28.0"
+  },
+  {
+    "no": "280",
+    "name": "ralts",
+    "height": "0.4",
+    "weight": "6.6"
+  },
+  {
+    "no": "281",
+    "name": "kirlia",
+    "height": "0.8",
+    "weight": "20.2"
+  },
+  {
+    "no": "282",
+    "name": "gardevoir",
+    "height": "1.6",
+    "weight": "48.4"
+  },
+  {
+    "no": "282",
+    "name": "gardevoir",
+    "height": "1.6",
+    "weight": "48.4"
+  },
+  {
+    "no": "283",
+    "name": "surskit",
+    "height": "0.5",
+    "weight": "1.7"
+  },
+  {
+    "no": "284",
+    "name": "masquerain",
+    "height": "0.8",
+    "weight": "3.6"
+  },
+  {
+    "no": "285",
+    "name": "shroomish",
+    "height": "0.4",
+    "weight": "4.5"
+  },
+  {
+    "no": "286",
+    "name": "breloom",
+    "height": "1.2",
+    "weight": "39.2"
+  },
+  {
+    "no": "287",
+    "name": "slakoth",
+    "height": "0.8",
+    "weight": "24.0"
+  },
+  {
+    "no": "288",
+    "name": "vigoroth",
+    "height": "1.4",
+    "weight": "46.5"
+  },
+  {
+    "no": "289",
+    "name": "slaking",
+    "height": "2.0",
+    "weight": "130.5"
+  },
+  {
+    "no": "290",
+    "name": "nincada",
+    "height": "0.5",
+    "weight": "5.5"
+  },
+  {
+    "no": "291",
+    "name": "ninjask",
+    "height": "0.8",
+    "weight": "12.0"
+  },
+  {
+    "no": "292",
+    "name": "shedinja",
+    "height": "0.8",
+    "weight": "1.2"
+  },
+  {
+    "no": "293",
+    "name": "whismur",
+    "height": "0.6",
+    "weight": "16.3"
+  },
+  {
+    "no": "294",
+    "name": "loudred",
+    "height": "1.0",
+    "weight": "40.5"
+  },
+  {
+    "no": "295",
+    "name": "exploud",
+    "height": "1.5",
+    "weight": "84.0"
+  },
+  {
+    "no": "296",
+    "name": "makuhita",
+    "height": "1.0",
+    "weight": "86.4"
+  },
+  {
+    "no": "297",
+    "name": "hariyama",
+    "height": "2.3",
+    "weight": "253.8"
+  },
+  {
+    "no": "298",
+    "name": "azurill",
+    "height": "0.2",
+    "weight": "2.0"
+  },
+  {
+    "no": "299",
+    "name": "nosepass",
+    "height": "1.0",
+    "weight": "97.0"
+  },
+  {
+    "no": "300",
+    "name": "skitty",
+    "height": "0.6",
+    "weight": "11.0"
+  },
+  {
+    "no": "301",
+    "name": "delcatty",
+    "height": "1.1",
+    "weight": "32.6"
+  },
+  {
+    "no": "302",
+    "name": "sableye",
+    "height": "0.5",
+    "weight": "11.0"
+  },
+  {
+    "no": "302",
+    "name": "sableye",
+    "height": "0.5",
+    "weight": "11.0"
+  },
+  {
+    "no": "303",
+    "name": "mawile",
+    "height": "0.6",
+    "weight": "11.5"
+  },
+  {
+    "no": "303",
+    "name": "mawile",
+    "height": "0.6",
+    "weight": "11.5"
+  },
+  {
+    "no": "304",
+    "name": "aron",
+    "height": "0.4",
+    "weight": "60.0"
+  },
+  {
+    "no": "305",
+    "name": "lairon",
+    "height": "0.9",
+    "weight": "120.0"
+  },
+  {
+    "no": "306",
+    "name": "aggron",
+    "height": "2.1",
+    "weight": "360.0"
+  },
+  {
+    "no": "306",
+    "name": "aggron",
+    "height": "2.1",
+    "weight": "360.0"
+  },
+  {
+    "no": "307",
+    "name": "meditite",
+    "height": "0.6",
+    "weight": "11.2"
+  },
+  {
+    "no": "308",
+    "name": "medicham",
+    "height": "1.3",
+    "weight": "31.5"
+  },
+  {
+    "no": "308",
+    "name": "medicham",
+    "height": "1.3",
+    "weight": "31.5"
+  },
+  {
+    "no": "309",
+    "name": "electrike",
+    "height": "0.6",
+    "weight": "15.2"
+  },
+  {
+    "no": "310",
+    "name": "manectric",
+    "height": "1.5",
+    "weight": "40.2"
+  },
+  {
+    "no": "310",
+    "name": "manectric",
+    "height": "1.5",
+    "weight": "40.2"
+  },
+  {
+    "no": "311",
+    "name": "plusle",
+    "height": "0.4",
+    "weight": "4.2"
+  },
+  {
+    "no": "312",
+    "name": "minun",
+    "height": "0.4",
+    "weight": "4.2"
+  },
+  {
+    "no": "313",
+    "name": "volbeat",
+    "height": "0.7",
+    "weight": "17.7"
+  },
+  {
+    "no": "314",
+    "name": "illumise",
+    "height": "0.6",
+    "weight": "17.7"
+  },
+  {
+    "no": "315",
+    "name": "roselia",
+    "height": "0.3",
+    "weight": "2.0"
+  },
+  {
+    "no": "316",
+    "name": "gulpin",
+    "height": "0.4",
+    "weight": "10.3"
+  },
+  {
+    "no": "317",
+    "name": "swalot",
+    "height": "1.7",
+    "weight": "80.0"
+  },
+  {
+    "no": "318",
+    "name": "carvanha",
+    "height": "0.8",
+    "weight": "20.8"
+  },
+  {
+    "no": "319",
+    "name": "sharpedo",
+    "height": "1.8",
+    "weight": "88.8"
+  },
+  {
+    "no": "319",
+    "name": "sharpedo",
+    "height": "1.8",
+    "weight": "88.8"
+  },
+  {
+    "no": "320",
+    "name": "wailmer",
+    "height": "2.0",
+    "weight": "130.0"
+  },
+  {
+    "no": "321",
+    "name": "wailord",
+    "height": "14.5",
+    "weight": "398.0"
+  },
+  {
+    "no": "322",
+    "name": "numel",
+    "height": "0.7",
+    "weight": "24.0"
+  },
+  {
+    "no": "323",
+    "name": "camerupt",
+    "height": "1.9",
+    "weight": "220.0"
+  },
+  {
+    "no": "323",
+    "name": "camerupt",
+    "height": "1.9",
+    "weight": "220.0"
+  },
+  {
+    "no": "324",
+    "name": "torkoal",
+    "height": "0.5",
+    "weight": "80.4"
+  },
+  {
+    "no": "325",
+    "name": "spoink",
+    "height": "0.7",
+    "weight": "30.6"
+  },
+  {
+    "no": "326",
+    "name": "grumpig",
+    "height": "0.9",
+    "weight": "71.5"
+  },
+  {
+    "no": "327",
+    "name": "spinda",
+    "height": "1.1",
+    "weight": "5.0"
+  },
+  {
+    "no": "328",
+    "name": "trapinch",
+    "height": "0.7",
+    "weight": "15.0"
+  },
+  {
+    "no": "329",
+    "name": "vibrava",
+    "height": "1.1",
+    "weight": "15.3"
+  },
+  {
+    "no": "330",
+    "name": "flygon",
+    "height": "2.0",
+    "weight": "82.0"
+  },
+  {
+    "no": "331",
+    "name": "cacnea",
+    "height": "0.4",
+    "weight": "51.3"
+  },
+  {
+    "no": "332",
+    "name": "cacturne",
+    "height": "1.3",
+    "weight": "77.4"
+  },
+  {
+    "no": "333",
+    "name": "swablu",
+    "height": "0.4",
+    "weight": "1.2"
+  },
+  {
+    "no": "334",
+    "name": "altaria",
+    "height": "1.1",
+    "weight": "20.6"
+  },
+  {
+    "no": "334",
+    "name": "altaria",
+    "height": "1.1",
+    "weight": "20.6"
+  },
+  {
+    "no": "335",
+    "name": "zangoose",
+    "height": "1.3",
+    "weight": "40.3"
+  },
+  {
+    "no": "336",
+    "name": "seviper",
+    "height": "2.7",
+    "weight": "52.5"
+  },
+  {
+    "no": "337",
+    "name": "lunatone",
+    "height": "1.0",
+    "weight": "168.0"
+  },
+  {
+    "no": "338",
+    "name": "solrock",
+    "height": "1.2",
+    "weight": "154.0"
+  },
+  {
+    "no": "339",
+    "name": "barboach",
+    "height": "0.4",
+    "weight": "1.9"
+  },
+  {
+    "no": "340",
+    "name": "whiscash",
+    "height": "0.9",
+    "weight": "23.6"
+  },
+  {
+    "no": "341",
+    "name": "corphish",
+    "height": "0.6",
+    "weight": "11.5"
+  },
+  {
+    "no": "342",
+    "name": "crawdaunt",
+    "height": "1.1",
+    "weight": "32.8"
+  },
+  {
+    "no": "343",
+    "name": "baltoy",
+    "height": "0.5",
+    "weight": "21.5"
+  },
+  {
+    "no": "344",
+    "name": "claydol",
+    "height": "1.5",
+    "weight": "108.0"
+  },
+  {
+    "no": "345",
+    "name": "lileep",
+    "height": "1.0",
+    "weight": "23.8"
+  },
+  {
+    "no": "346",
+    "name": "cradily",
+    "height": "1.5",
+    "weight": "60.4"
+  },
+  {
+    "no": "347",
+    "name": "anorith",
+    "height": "0.7",
+    "weight": "12.5"
+  },
+  {
+    "no": "348",
+    "name": "armaldo",
+    "height": "1.5",
+    "weight": "68.2"
+  },
+  {
+    "no": "349",
+    "name": "feebas",
+    "height": "0.6",
+    "weight": "7.4"
+  },
+  {
+    "no": "350",
+    "name": "milotic",
+    "height": "6.2",
+    "weight": "162.0"
+  },
+  {
+    "no": "351",
+    "name": "castform",
+    "height": "0.3",
+    "weight": "0.8"
+  },
+  {
+    "no": "351",
+    "name": "castform",
+    "height": "0.3",
+    "weight": "0.8"
+  },
+  {
+    "no": "351",
+    "name": "castform",
+    "height": "0.3",
+    "weight": "0.8"
+  },
+  {
+    "no": "351",
+    "name": "castform",
+    "height": "0.3",
+    "weight": "0.8"
+  },
+  {
+    "no": "352",
+    "name": "kecleon",
+    "height": "1.0",
+    "weight": "22.0"
+  },
+  {
+    "no": "353",
+    "name": "shuppet",
+    "height": "0.6",
+    "weight": "2.3"
+  },
+  {
+    "no": "354",
+    "name": "banette",
+    "height": "1.1",
+    "weight": "12.5"
+  },
+  {
+    "no": "354",
+    "name": "banette",
+    "height": "1.1",
+    "weight": "12.5"
+  },
+  {
+    "no": "355",
+    "name": "duskull",
+    "height": "0.8",
+    "weight": "15.0"
+  },
+  {
+    "no": "356",
+    "name": "dusclops",
+    "height": "1.6",
+    "weight": "30.6"
+  },
+  {
+    "no": "357",
+    "name": "tropius",
+    "height": "2.0",
+    "weight": "100.0"
+  },
+  {
+    "no": "358",
+    "name": "chimecho",
+    "height": "0.6",
+    "weight": "1.0"
+  },
+  {
+    "no": "359",
+    "name": "absol",
+    "height": "1.2",
+    "weight": "47.0"
+  },
+  {
+    "no": "359",
+    "name": "absol",
+    "height": "1.2",
+    "weight": "47.0"
+  },
+  {
+    "no": "360",
+    "name": "wynaut",
+    "height": "0.6",
+    "weight": "14.0"
+  },
+  {
+    "no": "361",
+    "name": "snorunt",
+    "height": "0.7",
+    "weight": "16.8"
+  },
+  {
+    "no": "362",
+    "name": "glalie",
+    "height": "1.5",
+    "weight": "256.5"
+  },
+  {
+    "no": "362",
+    "name": "glalie",
+    "height": "1.5",
+    "weight": "256.5"
+  },
+  {
+    "no": "363",
+    "name": "spheal",
+    "height": "0.8",
+    "weight": "39.5"
+  },
+  {
+    "no": "364",
+    "name": "sealeo",
+    "height": "1.1",
+    "weight": "87.6"
+  },
+  {
+    "no": "365",
+    "name": "walrein",
+    "height": "1.4",
+    "weight": "150.6"
+  },
+  {
+    "no": "366",
+    "name": "clamperl",
+    "height": "0.4",
+    "weight": "52.5"
+  },
+  {
+    "no": "367",
+    "name": "huntail",
+    "height": "1.7",
+    "weight": "27.0"
+  },
+  {
+    "no": "368",
+    "name": "gorebyss",
+    "height": "1.8",
+    "weight": "22.6"
+  },
+  {
+    "no": "369",
+    "name": "relicanth",
+    "height": "1.0",
+    "weight": "23.4"
+  },
+  {
+    "no": "370",
+    "name": "luvdisc",
+    "height": "0.6",
+    "weight": "8.7"
+  },
+  {
+    "no": "371",
+    "name": "bagon",
+    "height": "0.6",
+    "weight": "42.1"
+  },
+  {
+    "no": "372",
+    "name": "shelgon",
+    "height": "1.1",
+    "weight": "110.5"
+  },
+  {
+    "no": "373",
+    "name": "salamence",
+    "height": "1.5",
+    "weight": "102.6"
+  },
+  {
+    "no": "373",
+    "name": "salamence",
+    "height": "1.5",
+    "weight": "102.6"
+  },
+  {
+    "no": "374",
+    "name": "beldum",
+    "height": "0.6",
+    "weight": "95.2"
+  },
+  {
+    "no": "375",
+    "name": "metang",
+    "height": "1.2",
+    "weight": "202.5"
+  },
+  {
+    "no": "376",
+    "name": "metagross",
+    "height": "1.6",
+    "weight": "550.0"
+  },
+  {
+    "no": "376",
+    "name": "metagross",
+    "height": "1.6",
+    "weight": "550.0"
+  },
+  {
+    "no": "377",
+    "name": "regirock",
+    "height": "1.7",
+    "weight": "230.0"
+  },
+  {
+    "no": "378",
+    "name": "regice",
+    "height": "1.8",
+    "weight": "175.0"
+  },
+  {
+    "no": "379",
+    "name": "registeel",
+    "height": "1.9",
+    "weight": "205.0"
+  },
+  {
+    "no": "380",
+    "name": "latias",
+    "height": "1.4",
+    "weight": "40.0"
+  },
+  {
+    "no": "380",
+    "name": "latias",
+    "height": "1.4",
+    "weight": "40.0"
+  },
+  {
+    "no": "381",
+    "name": "latios",
+    "height": "2.0",
+    "weight": "60.0"
+  },
+  {
+    "no": "381",
+    "name": "latios",
+    "height": "2.0",
+    "weight": "60.0"
+  },
+  {
+    "no": "382",
+    "name": "kyogre",
+    "height": "4.5",
+    "weight": "352.0"
+  },
+  {
+    "no": "382",
+    "name": "kyogre",
+    "height": "4.5",
+    "weight": "352.0"
+  },
+  {
+    "no": "383",
+    "name": "groudon",
+    "height": "3.5",
+    "weight": "950.0"
+  },
+  {
+    "no": "383",
+    "name": "groudon",
+    "height": "3.5",
+    "weight": "950.0"
+  },
+  {
+    "no": "384",
+    "name": "rayquaza",
+    "height": "7.0",
+    "weight": "206.5"
+  },
+  {
+    "no": "384",
+    "name": "rayquaza",
+    "height": "7.0",
+    "weight": "206.5"
+  },
+  {
+    "no": "385",
+    "name": "jirachi",
+    "height": "0.3",
+    "weight": "1.1"
+  },
+  {
+    "no": "386",
+    "name": "deoxys",
+    "height": "1.7",
+    "weight": "60.8"
+  },
+  {
+    "no": "386",
+    "name": "deoxys",
+    "height": "1.7",
+    "weight": "60.8"
+  },
+  {
+    "no": "386",
+    "name": "deoxys",
+    "height": "1.7",
+    "weight": "60.8"
+  },
+  {
+    "no": "386",
+    "name": "deoxys",
+    "height": "1.7",
+    "weight": "60.8"
+  },
+  {
+    "no": "387",
+    "name": "turtwig",
+    "height": "0.4",
+    "weight": "10.2"
+  },
+  {
+    "no": "388",
+    "name": "grotle",
+    "height": "1.1",
+    "weight": "97.0"
+  },
+  {
+    "no": "389",
+    "name": "torterra",
+    "height": "2.2",
+    "weight": "310.0"
+  },
+  {
+    "no": "390",
+    "name": "chimchar",
+    "height": "0.5",
+    "weight": "6.2"
+  },
+  {
+    "no": "391",
+    "name": "monferno",
+    "height": "0.9",
+    "weight": "22.0"
+  },
+  {
+    "no": "392",
+    "name": "infernape",
+    "height": "1.2",
+    "weight": "55.0"
+  },
+  {
+    "no": "393",
+    "name": "piplup",
+    "height": "0.4",
+    "weight": "5.2"
+  },
+  {
+    "no": "394",
+    "name": "prinplup",
+    "height": "0.8",
+    "weight": "23.0"
+  },
+  {
+    "no": "395",
+    "name": "empoleon",
+    "height": "1.7",
+    "weight": "84.5"
+  },
+  {
+    "no": "396",
+    "name": "starly",
+    "height": "0.3",
+    "weight": "2.0"
+  },
+  {
+    "no": "397",
+    "name": "staravia",
+    "height": "0.6",
+    "weight": "15.5"
+  },
+  {
+    "no": "398",
+    "name": "staraptor",
+    "height": "1.2",
+    "weight": "24.9"
+  },
+  {
+    "no": "399",
+    "name": "bidoof",
+    "height": "0.5",
+    "weight": "20.0"
+  },
+  {
+    "no": "400",
+    "name": "bibarel",
+    "height": "1.0",
+    "weight": "31.5"
+  },
+  {
+    "no": "401",
+    "name": "kricketot",
+    "height": "0.3",
+    "weight": "2.2"
+  },
+  {
+    "no": "402",
+    "name": "kricketune",
+    "height": "1.0",
+    "weight": "25.5"
+  },
+  {
+    "no": "403",
+    "name": "shinx",
+    "height": "0.5",
+    "weight": "9.5"
+  },
+  {
+    "no": "404",
+    "name": "luxio",
+    "height": "0.9",
+    "weight": "30.5"
+  },
+  {
+    "no": "405",
+    "name": "luxray",
+    "height": "1.4",
+    "weight": "42.0"
+  },
+  {
+    "no": "406",
+    "name": "budew",
+    "height": "0.2",
+    "weight": "1.2"
+  },
+  {
+    "no": "407",
+    "name": "roserade",
+    "height": "0.9",
+    "weight": "14.5"
+  },
+  {
+    "no": "408",
+    "name": "cranidos",
+    "height": "0.9",
+    "weight": "31.5"
+  },
+  {
+    "no": "409",
+    "name": "rampardos",
+    "height": "1.6",
+    "weight": "102.5"
+  },
+  {
+    "no": "410",
+    "name": "shieldon",
+    "height": "0.5",
+    "weight": "57.0"
+  },
+  {
+    "no": "411",
+    "name": "bastiodon",
+    "height": "1.3",
+    "weight": "149.5"
+  },
+  {
+    "no": "412",
+    "name": "burmy",
+    "height": "0.2",
+    "weight": "3.4"
+  },
+  {
+    "no": "413",
+    "name": "wormadam",
+    "height": "0.5",
+    "weight": "6.5"
+  },
+  {
+    "no": "413",
+    "name": "wormadam",
+    "height": "0.5",
+    "weight": "6.5"
+  },
+  {
+    "no": "413",
+    "name": "wormadam",
+    "height": "0.5",
+    "weight": "6.5"
+  },
+  {
+    "no": "414",
+    "name": "mothim",
+    "height": "0.9",
+    "weight": "23.3"
+  },
+  {
+    "no": "415",
+    "name": "combee",
+    "height": "0.3",
+    "weight": "5.5"
+  },
+  {
+    "no": "416",
+    "name": "vespiquen",
+    "height": "1.2",
+    "weight": "38.5"
+  },
+  {
+    "no": "417",
+    "name": "pachirisu",
+    "height": "0.4",
+    "weight": "3.9"
+  },
+  {
+    "no": "418",
+    "name": "buizel",
+    "height": "0.7",
+    "weight": "29.5"
+  },
+  {
+    "no": "419",
+    "name": "floatzel",
+    "height": "1.1",
+    "weight": "33.5"
+  },
+  {
+    "no": "420",
+    "name": "cherubi",
+    "height": "0.4",
+    "weight": "3.3"
+  },
+  {
+    "no": "421",
+    "name": "cherrim",
+    "height": "0.5",
+    "weight": "9.3"
+  },
+  {
+    "no": "422",
+    "name": "shellos",
+    "height": "0.3",
+    "weight": "6.3"
+  },
+  {
+    "no": "423",
+    "name": "gastrodon",
+    "height": "0.9",
+    "weight": "29.9"
+  },
+  {
+    "no": "424",
+    "name": "ambipom",
+    "height": "1.2",
+    "weight": "20.3"
+  },
+  {
+    "no": "425",
+    "name": "drifloon",
+    "height": "0.4",
+    "weight": "1.2"
+  },
+  {
+    "no": "426",
+    "name": "drifblim",
+    "height": "1.2",
+    "weight": "15.0"
+  },
+  {
+    "no": "427",
+    "name": "buneary",
+    "height": "0.4",
+    "weight": "5.5"
+  },
+  {
+    "no": "428",
+    "name": "lopunny",
+    "height": "1.2",
+    "weight": "33.3"
+  },
+  {
+    "no": "428",
+    "name": "lopunny",
+    "height": "1.2",
+    "weight": "33.3"
+  },
+  {
+    "no": "429",
+    "name": "mismagius",
+    "height": "0.9",
+    "weight": "4.4"
+  },
+  {
+    "no": "430",
+    "name": "honchkrow",
+    "height": "0.9",
+    "weight": "27.3"
+  },
+  {
+    "no": "431",
+    "name": "glameow",
+    "height": "0.5",
+    "weight": "3.9"
+  },
+  {
+    "no": "432",
+    "name": "purugly",
+    "height": "1.0",
+    "weight": "43.8"
+  },
+  {
+    "no": "433",
+    "name": "chingling",
+    "height": "0.2",
+    "weight": "0.6"
+  },
+  {
+    "no": "434",
+    "name": "stunky",
+    "height": "0.4",
+    "weight": "19.2"
+  },
+  {
+    "no": "435",
+    "name": "skuntank",
+    "height": "1.0",
+    "weight": "38.0"
+  },
+  {
+    "no": "436",
+    "name": "bronzor",
+    "height": "0.5",
+    "weight": "60.5"
+  },
+  {
+    "no": "437",
+    "name": "bronzong",
+    "height": "1.3",
+    "weight": "187.0"
+  },
+  {
+    "no": "438",
+    "name": "bonsly",
+    "height": "0.5",
+    "weight": "15.0"
+  },
+  {
+    "no": "439",
+    "name": "mime-jr",
+    "height": "0.6",
+    "weight": "13.0"
+  },
+  {
+    "no": "440",
+    "name": "happiny",
+    "height": "0.6",
+    "weight": "24.4"
+  },
+  {
+    "no": "441",
+    "name": "chatot",
+    "height": "0.5",
+    "weight": "1.9"
+  },
+  {
+    "no": "442",
+    "name": "spiritomb",
+    "height": "1.0",
+    "weight": "108.0"
+  },
+  {
+    "no": "443",
+    "name": "gible",
+    "height": "0.7",
+    "weight": "20.5"
+  },
+  {
+    "no": "444",
+    "name": "gabite",
+    "height": "1.4",
+    "weight": "56.0"
+  },
+  {
+    "no": "445",
+    "name": "garchomp",
+    "height": "1.9",
+    "weight": "95.0"
+  },
+  {
+    "no": "445",
+    "name": "garchomp",
+    "height": "1.9",
+    "weight": "95.0"
+  },
+  {
+    "no": "446",
+    "name": "munchlax",
+    "height": "0.6",
+    "weight": "105.0"
+  },
+  {
+    "no": "447",
+    "name": "riolu",
+    "height": "0.7",
+    "weight": "20.2"
+  },
+  {
+    "no": "448",
+    "name": "lucario",
+    "height": "1.2",
+    "weight": "54.0"
+  },
+  {
+    "no": "448",
+    "name": "lucario",
+    "height": "1.2",
+    "weight": "54.0"
+  },
+  {
+    "no": "449",
+    "name": "hippopotas",
+    "height": "0.8",
+    "weight": "49.5"
+  },
+  {
+    "no": "450",
+    "name": "hippowdon",
+    "height": "2.0",
+    "weight": "300.0"
+  },
+  {
+    "no": "451",
+    "name": "skorupi",
+    "height": "0.8",
+    "weight": "12.0"
+  },
+  {
+    "no": "452",
+    "name": "drapion",
+    "height": "1.3",
+    "weight": "61.5"
+  },
+  {
+    "no": "453",
+    "name": "croagunk",
+    "height": "0.7",
+    "weight": "23.0"
+  },
+  {
+    "no": "454",
+    "name": "toxicroak",
+    "height": "1.3",
+    "weight": "44.4"
+  },
+  {
+    "no": "455",
+    "name": "carnivine",
+    "height": "1.4",
+    "weight": "27.0"
+  },
+  {
+    "no": "456",
+    "name": "finneon",
+    "height": "0.4",
+    "weight": "7.0"
+  },
+  {
+    "no": "457",
+    "name": "lumineon",
+    "height": "1.2",
+    "weight": "24.0"
+  },
+  {
+    "no": "458",
+    "name": "mantyke",
+    "height": "1.0",
+    "weight": "65.0"
+  },
+  {
+    "no": "459",
+    "name": "snover",
+    "height": "1.0",
+    "weight": "50.5"
+  },
+  {
+    "no": "460",
+    "name": "abomasnow",
+    "height": "2.2",
+    "weight": "135.5"
+  },
+  {
+    "no": "460",
+    "name": "abomasnow",
+    "height": "2.2",
+    "weight": "135.5"
+  },
+  {
+    "no": "461",
+    "name": "weavile",
+    "height": "1.1",
+    "weight": "34.0"
+  },
+  {
+    "no": "462",
+    "name": "magnezone",
+    "height": "1.2",
+    "weight": "180.0"
+  },
+  {
+    "no": "463",
+    "name": "lickilicky",
+    "height": "1.7",
+    "weight": "140.0"
+  },
+  {
+    "no": "464",
+    "name": "rhyperior",
+    "height": "2.4",
+    "weight": "282.8"
+  },
+  {
+    "no": "465",
+    "name": "tangrowth",
+    "height": "2.0",
+    "weight": "128.6"
+  },
+  {
+    "no": "466",
+    "name": "electivire",
+    "height": "1.8",
+    "weight": "138.6"
+  },
+  {
+    "no": "467",
+    "name": "magmortar",
+    "height": "1.6",
+    "weight": "68.0"
+  },
+  {
+    "no": "468",
+    "name": "togekiss",
+    "height": "1.5",
+    "weight": "38.0"
+  },
+  {
+    "no": "469",
+    "name": "yanmega",
+    "height": "1.9",
+    "weight": "51.5"
+  },
+  {
+    "no": "470",
+    "name": "leafeon",
+    "height": "1.0",
+    "weight": "25.5"
+  },
+  {
+    "no": "471",
+    "name": "glaceon",
+    "height": "0.8",
+    "weight": "25.9"
+  },
+  {
+    "no": "472",
+    "name": "gliscor",
+    "height": "2.0",
+    "weight": "42.5"
+  },
+  {
+    "no": "473",
+    "name": "mamoswine",
+    "height": "2.5",
+    "weight": "291.0"
+  },
+  {
+    "no": "474",
+    "name": "porygon",
+    "height": "0.8",
+    "weight": "36.5"
+  },
+  {
+    "no": "475",
+    "name": "gallade",
+    "height": "1.6",
+    "weight": "52.0"
+  },
+  {
+    "no": "475",
+    "name": "gallade",
+    "height": "1.6",
+    "weight": "52.0"
+  },
+  {
+    "no": "476",
+    "name": "probopass",
+    "height": "1.4",
+    "weight": "340.0"
+  },
+  {
+    "no": "477",
+    "name": "dusknoir",
+    "height": "2.2",
+    "weight": "106.6"
+  },
+  {
+    "no": "478",
+    "name": "froslass",
+    "height": "1.3",
+    "weight": "26.6"
+  },
+  {
+    "no": "479",
+    "name": "rotom",
+    "height": "0.3",
+    "weight": "0.3"
+  },
+  {
+    "no": "479",
+    "name": "rotom",
+    "height": "0.3",
+    "weight": "0.3"
+  },
+  {
+    "no": "479",
+    "name": "rotom",
+    "height": "0.3",
+    "weight": "0.3"
+  },
+  {
+    "no": "479",
+    "name": "rotom",
+    "height": "0.3",
+    "weight": "0.3"
+  },
+  {
+    "no": "479",
+    "name": "rotom",
+    "height": "0.3",
+    "weight": "0.3"
+  },
+  {
+    "no": "479",
+    "name": "rotom",
+    "height": "0.3",
+    "weight": "0.3"
+  },
+  {
+    "no": "480",
+    "name": "uxie",
+    "height": "0.3",
+    "weight": "0.3"
+  },
+  {
+    "no": "481",
+    "name": "mesprit",
+    "height": "0.3",
+    "weight": "0.3"
+  },
+  {
+    "no": "482",
+    "name": "azelf",
+    "height": "0.3",
+    "weight": "0.3"
+  },
+  {
+    "no": "483",
+    "name": "dialga",
+    "height": "5.4",
+    "weight": "683.0"
+  },
+  {
+    "no": "484",
+    "name": "palkia",
+    "height": "4.2",
+    "weight": "336.0"
+  },
+  {
+    "no": "485",
+    "name": "heatran",
+    "height": "1.7",
+    "weight": "430.0"
+  },
+  {
+    "no": "486",
+    "name": "regigigas",
+    "height": "3.7",
+    "weight": "420.0"
+  },
+  {
+    "no": "487",
+    "name": "giratina",
+    "height": "4.5",
+    "weight": "750.0"
+  },
+  {
+    "no": "487",
+    "name": "giratina",
+    "height": "4.5",
+    "weight": "750.0"
+  },
+  {
+    "no": "488",
+    "name": "cresselia",
+    "height": "1.5",
+    "weight": "85.6"
+  },
+  {
+    "no": "489",
+    "name": "phione",
+    "height": "0.4",
+    "weight": "3.1"
+  },
+  {
+    "no": "490",
+    "name": "manaphy",
+    "height": "0.3",
+    "weight": "1.4"
+  },
+  {
+    "no": "491",
+    "name": "darkrai",
+    "height": "1.5",
+    "weight": "50.5"
+  },
+  {
+    "no": "492",
+    "name": "shaymin",
+    "height": "0.2",
+    "weight": "2.1"
+  },
+  {
+    "no": "492",
+    "name": "shaymin",
+    "height": "0.2",
+    "weight": "2.1"
+  },
+  {
+    "no": "493",
+    "name": "arceus",
+    "height": "3.2",
+    "weight": "320.0"
+  },
+  {
+    "no": "494",
+    "name": "victini",
+    "height": "0.4",
+    "weight": "4.0"
+  },
+  {
+    "no": "495",
+    "name": "snivy",
+    "height": "0.6",
+    "weight": "8.1"
+  },
+  {
+    "no": "496",
+    "name": "servine",
+    "height": "0.8",
+    "weight": "16.0"
+  },
+  {
+    "no": "497",
+    "name": "serperior",
+    "height": "3.3",
+    "weight": "63.0"
+  },
+  {
+    "no": "498",
+    "name": "tepig",
+    "height": "0.5",
+    "weight": "9.9"
+  },
+  {
+    "no": "499",
+    "name": "pignite",
+    "height": "1.0",
+    "weight": "55.5"
+  },
+  {
+    "no": "500",
+    "name": "emboar",
+    "height": "1.6",
+    "weight": "150.0"
+  },
+  {
+    "no": "501",
+    "name": "oshawott",
+    "height": "0.5",
+    "weight": "5.9"
+  },
+  {
+    "no": "502",
+    "name": "dewott",
+    "height": "0.8",
+    "weight": "24.5"
+  },
+  {
+    "no": "503",
+    "name": "samurott",
+    "height": "1.5",
+    "weight": "94.6"
+  },
+  {
+    "no": "504",
+    "name": "patrat",
+    "height": "0.5",
+    "weight": "11.6"
+  },
+  {
+    "no": "505",
+    "name": "watchog",
+    "height": "1.1",
+    "weight": "27.0"
+  },
+  {
+    "no": "506",
+    "name": "lillipup",
+    "height": "0.4",
+    "weight": "4.1"
+  },
+  {
+    "no": "507",
+    "name": "herdier",
+    "height": "0.9",
+    "weight": "14.7"
+  },
+  {
+    "no": "508",
+    "name": "stoutland",
+    "height": "1.2",
+    "weight": "61.0"
+  },
+  {
+    "no": "509",
+    "name": "purrloin",
+    "height": "0.4",
+    "weight": "10.1"
+  },
+  {
+    "no": "510",
+    "name": "liepard",
+    "height": "1.1",
+    "weight": "37.5"
+  },
+  {
+    "no": "511",
+    "name": "pansage",
+    "height": "0.6",
+    "weight": "10.5"
+  },
+  {
+    "no": "512",
+    "name": "simisage",
+    "height": "1.1",
+    "weight": "30.5"
+  },
+  {
+    "no": "513",
+    "name": "pansear",
+    "height": "0.6",
+    "weight": "11.0"
+  },
+  {
+    "no": "514",
+    "name": "simisear",
+    "height": "1.0",
+    "weight": "28.0"
+  },
+  {
+    "no": "515",
+    "name": "panpour",
+    "height": "0.6",
+    "weight": "13.5"
+  },
+  {
+    "no": "516",
+    "name": "simipour",
+    "height": "1.0",
+    "weight": "29.0"
+  },
+  {
+    "no": "517",
+    "name": "munna",
+    "height": "0.6",
+    "weight": "23.3"
+  },
+  {
+    "no": "518",
+    "name": "musharna",
+    "height": "1.1",
+    "weight": "60.5"
+  },
+  {
+    "no": "519",
+    "name": "pidove",
+    "height": "0.3",
+    "weight": "2.1"
+  },
+  {
+    "no": "520",
+    "name": "tranquill",
+    "height": "0.6",
+    "weight": "15.0"
+  },
+  {
+    "no": "521",
+    "name": "unfezant",
+    "height": "1.2",
+    "weight": "29.0"
+  },
+  {
+    "no": "522",
+    "name": "blitzle",
+    "height": "0.8",
+    "weight": "29.8"
+  },
+  {
+    "no": "523",
+    "name": "zebstrika",
+    "height": "1.6",
+    "weight": "79.5"
+  },
+  {
+    "no": "524",
+    "name": "roggenrola",
+    "height": "0.4",
+    "weight": "18.0"
+  },
+  {
+    "no": "525",
+    "name": "boldore",
+    "height": "0.9",
+    "weight": "102.0"
+  },
+  {
+    "no": "526",
+    "name": "gigalith",
+    "height": "1.7",
+    "weight": "260.0"
+  },
+  {
+    "no": "527",
+    "name": "woobat",
+    "height": "0.4",
+    "weight": "2.1"
+  },
+  {
+    "no": "528",
+    "name": "swoobat",
+    "height": "0.9",
+    "weight": "10.5"
+  },
+  {
+    "no": "529",
+    "name": "drilbur",
+    "height": "0.3",
+    "weight": "8.5"
+  },
+  {
+    "no": "530",
+    "name": "excadrill",
+    "height": "0.7",
+    "weight": "40.4"
+  },
+  {
+    "no": "531",
+    "name": "audino",
+    "height": "1.1",
+    "weight": "31.0"
+  },
+  {
+    "no": "531",
+    "name": "audino",
+    "height": "1.1",
+    "weight": "31.0"
+  },
+  {
+    "no": "532",
+    "name": "timburr",
+    "height": "0.6",
+    "weight": "12.5"
+  },
+  {
+    "no": "533",
+    "name": "gurdurr",
+    "height": "1.2",
+    "weight": "40.0"
+  },
+  {
+    "no": "534",
+    "name": "conkeldurr",
+    "height": "1.4",
+    "weight": "87.0"
+  },
+  {
+    "no": "535",
+    "name": "tympole",
+    "height": "0.5",
+    "weight": "4.5"
+  },
+  {
+    "no": "536",
+    "name": "palpitoad",
+    "height": "0.8",
+    "weight": "17.0"
+  },
+  {
+    "no": "537",
+    "name": "seismitoad",
+    "height": "1.5",
+    "weight": "62.0"
+  },
+  {
+    "no": "538",
+    "name": "throh",
+    "height": "1.3",
+    "weight": "55.5"
+  },
+  {
+    "no": "539",
+    "name": "sawk",
+    "height": "1.4",
+    "weight": "51.0"
+  },
+  {
+    "no": "540",
+    "name": "sewaddle",
+    "height": "0.3",
+    "weight": "2.5"
+  },
+  {
+    "no": "541",
+    "name": "swadloon",
+    "height": "0.5",
+    "weight": "7.3"
+  },
+  {
+    "no": "542",
+    "name": "leavanny",
+    "height": "1.2",
+    "weight": "20.5"
+  },
+  {
+    "no": "543",
+    "name": "venipede",
+    "height": "0.4",
+    "weight": "5.3"
+  },
+  {
+    "no": "544",
+    "name": "whirlipede",
+    "height": "1.2",
+    "weight": "58.5"
+  },
+  {
+    "no": "545",
+    "name": "scolipede",
+    "height": "2.5",
+    "weight": "200.5"
+  },
+  {
+    "no": "546",
+    "name": "cottonee",
+    "height": "0.3",
+    "weight": "0.6"
+  },
+  {
+    "no": "547",
+    "name": "whimsicott",
+    "height": "0.7",
+    "weight": "6.6"
+  },
+  {
+    "no": "548",
+    "name": "petilil",
+    "height": "0.5",
+    "weight": "6.6"
+  },
+  {
+    "no": "549",
+    "name": "lilligant",
+    "height": "1.1",
+    "weight": "16.3"
+  },
+  {
+    "no": "550",
+    "name": "basculin",
+    "height": "1.0",
+    "weight": "18.0"
+  },
+  {
+    "no": "550",
+    "name": "basculin",
+    "height": "1.0",
+    "weight": "18.0"
+  },
+  {
+    "no": "551",
+    "name": "sandile",
+    "height": "0.7",
+    "weight": "15.2"
+  },
+  {
+    "no": "552",
+    "name": "krokorok",
+    "height": "1.0",
+    "weight": "33.4"
+  },
+  {
+    "no": "553",
+    "name": "krookodile",
+    "height": "1.5",
+    "weight": "96.3"
+  },
+  {
+    "no": "554",
+    "name": "darumaka",
+    "height": "0.6",
+    "weight": "37.5"
+  },
+  {
+    "no": "554",
+    "name": "darumaka",
+    "height": "0.6",
+    "weight": "37.5"
+  },
+  {
+    "no": "555",
+    "name": "darmanitan",
+    "height": "1.3",
+    "weight": "92.9"
+  },
+  {
+    "no": "555",
+    "name": "darmanitan",
+    "height": "1.3",
+    "weight": "92.9"
+  },
+  {
+    "no": "555",
+    "name": "darmanitan",
+    "height": "1.3",
+    "weight": "92.9"
+  },
+  {
+    "no": "555",
+    "name": "darmanitan",
+    "height": "1.3",
+    "weight": "92.9"
+  },
+  {
+    "no": "556",
+    "name": "maractus",
+    "height": "1.0",
+    "weight": "28.0"
+  },
+  {
+    "no": "557",
+    "name": "dwebble",
+    "height": "0.3",
+    "weight": "14.5"
+  },
+  {
+    "no": "558",
+    "name": "crustle",
+    "height": "1.4",
+    "weight": "200.0"
+  },
+  {
+    "no": "559",
+    "name": "scraggy",
+    "height": "0.6",
+    "weight": "11.8"
+  },
+  {
+    "no": "560",
+    "name": "scrafty",
+    "height": "1.1",
+    "weight": "30.0"
+  },
+  {
+    "no": "561",
+    "name": "sigilyph",
+    "height": "1.4",
+    "weight": "14.0"
+  },
+  {
+    "no": "562",
+    "name": "yamask",
+    "height": "0.5",
+    "weight": "1.5"
+  },
+  {
+    "no": "562",
+    "name": "yamask",
+    "height": "0.5",
+    "weight": "1.5"
+  },
+  {
+    "no": "563",
+    "name": "cofagrigus",
+    "height": "1.7",
+    "weight": "76.5"
+  },
+  {
+    "no": "564",
+    "name": "tirtouga",
+    "height": "0.7",
+    "weight": "16.5"
+  },
+  {
+    "no": "565",
+    "name": "carracosta",
+    "height": "1.2",
+    "weight": "81.0"
+  },
+  {
+    "no": "566",
+    "name": "archen",
+    "height": "0.5",
+    "weight": "9.5"
+  },
+  {
+    "no": "567",
+    "name": "archeops",
+    "height": "1.4",
+    "weight": "32.0"
+  },
+  {
+    "no": "568",
+    "name": "trubbish",
+    "height": "0.6",
+    "weight": "31.0"
+  },
+  {
+    "no": "569",
+    "name": "garbodor",
+    "height": "1.9",
+    "weight": "107.3"
+  },
+  {
+    "no": "570",
+    "name": "zorua",
+    "height": "0.7",
+    "weight": "12.5"
+  },
+  {
+    "no": "571",
+    "name": "zoroark",
+    "height": "1.6",
+    "weight": "81.1"
+  },
+  {
+    "no": "572",
+    "name": "minccino",
+    "height": "0.4",
+    "weight": "5.8"
+  },
+  {
+    "no": "573",
+    "name": "cinccino",
+    "height": "0.5",
+    "weight": "7.5"
+  },
+  {
+    "no": "574",
+    "name": "gothita",
+    "height": "0.4",
+    "weight": "5.8"
+  },
+  {
+    "no": "575",
+    "name": "gothorita",
+    "height": "0.7",
+    "weight": "18.0"
+  },
+  {
+    "no": "576",
+    "name": "gothitelle",
+    "height": "1.5",
+    "weight": "44.0"
+  },
+  {
+    "no": "577",
+    "name": "solosis",
+    "height": "0.3",
+    "weight": "1.0"
+  },
+  {
+    "no": "578",
+    "name": "duosion",
+    "height": "0.6",
+    "weight": "8.0"
+  },
+  {
+    "no": "579",
+    "name": "reuniclus",
+    "height": "1.0",
+    "weight": "20.1"
+  },
+  {
+    "no": "580",
+    "name": "ducklett",
+    "height": "0.5",
+    "weight": "5.5"
+  },
+  {
+    "no": "581",
+    "name": "swanna",
+    "height": "1.3",
+    "weight": "24.2"
+  },
+  {
+    "no": "582",
+    "name": "vanillite",
+    "height": "0.4",
+    "weight": "5.7"
+  },
+  {
+    "no": "583",
+    "name": "vanillish",
+    "height": "1.1",
+    "weight": "41.0"
+  },
+  {
+    "no": "584",
+    "name": "vanilluxe",
+    "height": "1.3",
+    "weight": "57.5"
+  },
+  {
+    "no": "585",
+    "name": "deerling",
+    "height": "0.6",
+    "weight": "19.5"
+  },
+  {
+    "no": "586",
+    "name": "sawsbuck",
+    "height": "1.9",
+    "weight": "92.5"
+  },
+  {
+    "no": "587",
+    "name": "emolga",
+    "height": "0.4",
+    "weight": "5.0"
+  },
+  {
+    "no": "588",
+    "name": "karrablast",
+    "height": "0.5",
+    "weight": "5.9"
+  },
+  {
+    "no": "589",
+    "name": "escavalier",
+    "height": "1.0",
+    "weight": "33.0"
+  },
+  {
+    "no": "590",
+    "name": "foongus",
+    "height": "0.2",
+    "weight": "1.0"
+  },
+  {
+    "no": "591",
+    "name": "amoonguss",
+    "height": "0.6",
+    "weight": "10.5"
+  },
+  {
+    "no": "592",
+    "name": "frillish",
+    "height": "1.2",
+    "weight": "33.0"
+  },
+  {
+    "no": "593",
+    "name": "jellicent",
+    "height": "2.2",
+    "weight": "135.0"
+  },
+  {
+    "no": "594",
+    "name": "alomomola",
+    "height": "1.2",
+    "weight": "31.6"
+  },
+  {
+    "no": "595",
+    "name": "joltik",
+    "height": "0.1",
+    "weight": "0.6"
+  },
+  {
+    "no": "596",
+    "name": "galvantula",
+    "height": "0.8",
+    "weight": "14.3"
+  },
+  {
+    "no": "597",
+    "name": "ferroseed",
+    "height": "0.6",
+    "weight": "18.8"
+  },
+  {
+    "no": "598",
+    "name": "ferrothorn",
+    "height": "1.0",
+    "weight": "110.0"
+  },
+  {
+    "no": "599",
+    "name": "klink",
+    "height": "0.3",
+    "weight": "21.0"
+  },
+  {
+    "no": "600",
+    "name": "klang",
+    "height": "0.6",
+    "weight": "51.0"
+  },
+  {
+    "no": "601",
+    "name": "klinklang",
+    "height": "0.6",
+    "weight": "81.0"
+  },
+  {
+    "no": "602",
+    "name": "tynamo",
+    "height": "0.2",
+    "weight": "0.3"
+  },
+  {
+    "no": "603",
+    "name": "eelektrik",
+    "height": "1.2",
+    "weight": "22.0"
+  },
+  {
+    "no": "604",
+    "name": "eelektross",
+    "height": "2.1",
+    "weight": "80.5"
+  },
+  {
+    "no": "605",
+    "name": "elgyem",
+    "height": "0.5",
+    "weight": "9.0"
+  },
+  {
+    "no": "606",
+    "name": "beheeyem",
+    "height": "1.0",
+    "weight": "34.5"
+  },
+  {
+    "no": "607",
+    "name": "litwick",
+    "height": "0.3",
+    "weight": "3.1"
+  },
+  {
+    "no": "608",
+    "name": "lampent",
+    "height": "0.6",
+    "weight": "13.0"
+  },
+  {
+    "no": "609",
+    "name": "chandelure",
+    "height": "1.0",
+    "weight": "34.3"
+  },
+  {
+    "no": "610",
+    "name": "axew",
+    "height": "0.6",
+    "weight": "18.0"
+  },
+  {
+    "no": "611",
+    "name": "fraxure",
+    "height": "1.0",
+    "weight": "36.0"
+  },
+  {
+    "no": "612",
+    "name": "haxorus",
+    "height": "1.8",
+    "weight": "105.5"
+  },
+  {
+    "no": "613",
+    "name": "cubchoo",
+    "height": "0.5",
+    "weight": "8.5"
+  },
+  {
+    "no": "614",
+    "name": "beartic",
+    "height": "2.6",
+    "weight": "260.0"
+  },
+  {
+    "no": "615",
+    "name": "cryogonal",
+    "height": "1.1",
+    "weight": "148.0"
+  },
+  {
+    "no": "616",
+    "name": "shelmet",
+    "height": "0.4",
+    "weight": "7.7"
+  },
+  {
+    "no": "617",
+    "name": "accelgor",
+    "height": "0.8",
+    "weight": "25.3"
+  },
+  {
+    "no": "618",
+    "name": "stunfisk",
+    "height": "0.7",
+    "weight": "11.0"
+  },
+  {
+    "no": "618",
+    "name": "stunfisk",
+    "height": "0.7",
+    "weight": "11.0"
+  },
+  {
+    "no": "619",
+    "name": "mienfoo",
+    "height": "0.9",
+    "weight": "20.0"
+  },
+  {
+    "no": "620",
+    "name": "mienshao",
+    "height": "1.4",
+    "weight": "35.5"
+  },
+  {
+    "no": "621",
+    "name": "druddigon",
+    "height": "1.6",
+    "weight": "139.0"
+  },
+  {
+    "no": "622",
+    "name": "golett",
+    "height": "1.0",
+    "weight": "92.0"
+  },
+  {
+    "no": "623",
+    "name": "golurk",
+    "height": "2.8",
+    "weight": "330.0"
+  },
+  {
+    "no": "624",
+    "name": "pawniard",
+    "height": "0.5",
+    "weight": "10.2"
+  },
+  {
+    "no": "625",
+    "name": "bisharp",
+    "height": "1.6",
+    "weight": "70.0"
+  },
+  {
+    "no": "626",
+    "name": "bouffalant",
+    "height": "1.6",
+    "weight": "94.6"
+  },
+  {
+    "no": "627",
+    "name": "rufflet",
+    "height": "0.5",
+    "weight": "10.5"
+  },
+  {
+    "no": "628",
+    "name": "braviary",
+    "height": "1.5",
+    "weight": "41.0"
+  },
+  {
+    "no": "629",
+    "name": "vullaby",
+    "height": "0.5",
+    "weight": "9.0"
+  },
+  {
+    "no": "630",
+    "name": "mandibuzz",
+    "height": "1.2",
+    "weight": "39.5"
+  },
+  {
+    "no": "631",
+    "name": "heatmor",
+    "height": "1.4",
+    "weight": "58.0"
+  },
+  {
+    "no": "632",
+    "name": "durant",
+    "height": "0.3",
+    "weight": "33.0"
+  },
+  {
+    "no": "633",
+    "name": "deino",
+    "height": "0.8",
+    "weight": "17.3"
+  },
+  {
+    "no": "634",
+    "name": "zweilous",
+    "height": "1.4",
+    "weight": "50.0"
+  },
+  {
+    "no": "635",
+    "name": "hydreigon",
+    "height": "1.8",
+    "weight": "160.0"
+  },
+  {
+    "no": "636",
+    "name": "larvesta",
+    "height": "1.1",
+    "weight": "28.8"
+  },
+  {
+    "no": "637",
+    "name": "volcarona",
+    "height": "1.6",
+    "weight": "46.0"
+  },
+  {
+    "no": "638",
+    "name": "cobalion",
+    "height": "2.1",
+    "weight": "250.0"
+  },
+  {
+    "no": "639",
+    "name": "terrakion",
+    "height": "1.9",
+    "weight": "260.0"
+  },
+  {
+    "no": "640",
+    "name": "virizion",
+    "height": "2.0",
+    "weight": "200.0"
+  },
+  {
+    "no": "641",
+    "name": "tornadus",
+    "height": "1.5",
+    "weight": "63.0"
+  },
+  {
+    "no": "641",
+    "name": "tornadus",
+    "height": "1.5",
+    "weight": "63.0"
+  },
+  {
+    "no": "642",
+    "name": "thundurus",
+    "height": "1.5",
+    "weight": "61.0"
+  },
+  {
+    "no": "642",
+    "name": "thundurus",
+    "height": "1.5",
+    "weight": "61.0"
+  },
+  {
+    "no": "643",
+    "name": "reshiram",
+    "height": "3.2",
+    "weight": "330.0"
+  },
+  {
+    "no": "644",
+    "name": "zekrom",
+    "height": "2.9",
+    "weight": "345.0"
+  },
+  {
+    "no": "645",
+    "name": "landorus",
+    "height": "1.5",
+    "weight": "68.0"
+  },
+  {
+    "no": "645",
+    "name": "landorus",
+    "height": "1.5",
+    "weight": "68.0"
+  },
+  {
+    "no": "646",
+    "name": "kyurem",
+    "height": "3.0",
+    "weight": "325.0"
+  },
+  {
+    "no": "646",
+    "name": "kyurem",
+    "height": "3.0",
+    "weight": "325.0"
+  },
+  {
+    "no": "646",
+    "name": "kyurem",
+    "height": "3.0",
+    "weight": "325.0"
+  },
+  {
+    "no": "647",
+    "name": "keldeo",
+    "height": "1.4",
+    "weight": "48.5"
+  },
+  {
+    "no": "647",
+    "name": "keldeo",
+    "height": "1.4",
+    "weight": "48.5"
+  },
+  {
+    "no": "648",
+    "name": "meloetta",
+    "height": "0.6",
+    "weight": "6.5"
+  },
+  {
+    "no": "648",
+    "name": "meloetta",
+    "height": "0.6",
+    "weight": "6.5"
+  },
+  {
+    "no": "649",
+    "name": "genesect",
+    "height": "1.5",
+    "weight": "82.5"
+  },
+  {
+    "no": "650",
+    "name": "chespin",
+    "height": "0.4",
+    "weight": "9.0"
+  },
+  {
+    "no": "651",
+    "name": "quilladin",
+    "height": "0.7",
+    "weight": "29.0"
+  },
+  {
+    "no": "652",
+    "name": "chesnaught",
+    "height": "1.6",
+    "weight": "90.0"
+  },
+  {
+    "no": "653",
+    "name": "fennekin",
+    "height": "0.4",
+    "weight": "9.4"
+  },
+  {
+    "no": "654",
+    "name": "braixen",
+    "height": "1.0",
+    "weight": "14.5"
+  },
+  {
+    "no": "655",
+    "name": "delphox",
+    "height": "1.5",
+    "weight": "39.0"
+  },
+  {
+    "no": "656",
+    "name": "froakie",
+    "height": "0.3",
+    "weight": "7.0"
+  },
+  {
+    "no": "657",
+    "name": "frogadier",
+    "height": "0.6",
+    "weight": "10.9"
+  },
+  {
+    "no": "658",
+    "name": "greninja",
+    "height": "1.5",
+    "weight": "40.0"
+  },
+  {
+    "no": "658",
+    "name": "greninja",
+    "height": "1.5",
+    "weight": "40.0"
+  },
+  {
+    "no": "659",
+    "name": "bunnelby",
+    "height": "0.4",
+    "weight": "5.0"
+  },
+  {
+    "no": "660",
+    "name": "diggersby",
+    "height": "1.0",
+    "weight": "42.4"
+  },
+  {
+    "no": "661",
+    "name": "fletchling",
+    "height": "0.3",
+    "weight": "1.7"
+  },
+  {
+    "no": "662",
+    "name": "fletchinder",
+    "height": "0.7",
+    "weight": "16.0"
+  },
+  {
+    "no": "663",
+    "name": "talonflame",
+    "height": "1.2",
+    "weight": "24.5"
+  },
+  {
+    "no": "664",
+    "name": "scatterbug",
+    "height": "0.3",
+    "weight": "2.5"
+  },
+  {
+    "no": "665",
+    "name": "spewpa",
+    "height": "0.3",
+    "weight": "8.4"
+  },
+  {
+    "no": "666",
+    "name": "vivillon",
+    "height": "1.2",
+    "weight": "17.0"
+  },
+  {
+    "no": "667",
+    "name": "litleo",
+    "height": "0.6",
+    "weight": "13.5"
+  },
+  {
+    "no": "668",
+    "name": "pyroar",
+    "height": "1.5",
+    "weight": "81.5"
+  },
+  {
+    "no": "669",
+    "name": "flabebe",
+    "height": "0.1",
+    "weight": "0.1"
+  },
+  {
+    "no": "670",
+    "name": "floette",
+    "height": "0.2",
+    "weight": "0.9"
+  },
+  {
+    "no": "671",
+    "name": "florges",
+    "height": "1.1",
+    "weight": "10.0"
+  },
+  {
+    "no": "672",
+    "name": "skiddo",
+    "height": "0.9",
+    "weight": "31.0"
+  },
+  {
+    "no": "673",
+    "name": "gogoat",
+    "height": "1.7",
+    "weight": "91.0"
+  },
+  {
+    "no": "674",
+    "name": "pancham",
+    "height": "0.6",
+    "weight": "8.0"
+  },
+  {
+    "no": "675",
+    "name": "pangoro",
+    "height": "2.1",
+    "weight": "136.0"
+  },
+  {
+    "no": "676",
+    "name": "furfrou",
+    "height": "1.2",
+    "weight": "28.0"
+  },
+  {
+    "no": "677",
+    "name": "espurr",
+    "height": "0.3",
+    "weight": "3.5"
+  },
+  {
+    "no": "678",
+    "name": "meowstic",
+    "height": "0.6",
+    "weight": "8.5"
+  },
+  {
+    "no": "678",
+    "name": "meowstic",
+    "height": "0.6",
+    "weight": "8.5"
+  },
+  {
+    "no": "679",
+    "name": "honedge",
+    "height": "0.8",
+    "weight": "2.0"
+  },
+  {
+    "no": "680",
+    "name": "doublade",
+    "height": "0.8",
+    "weight": "4.5"
+  },
+  {
+    "no": "681",
+    "name": "aegislash",
+    "height": "1.7",
+    "weight": "53.0"
+  },
+  {
+    "no": "681",
+    "name": "aegislash",
+    "height": "1.7",
+    "weight": "53.0"
+  },
+  {
+    "no": "682",
+    "name": "spritzee",
+    "height": "0.2",
+    "weight": "0.5"
+  },
+  {
+    "no": "683",
+    "name": "aromatisse",
+    "height": "0.8",
+    "weight": "15.5"
+  },
+  {
+    "no": "684",
+    "name": "swirlix",
+    "height": "0.4",
+    "weight": "3.5"
+  },
+  {
+    "no": "685",
+    "name": "slurpuff",
+    "height": "0.8",
+    "weight": "5.0"
+  },
+  {
+    "no": "686",
+    "name": "inkay",
+    "height": "0.4",
+    "weight": "3.5"
+  },
+  {
+    "no": "687",
+    "name": "malamar",
+    "height": "1.5",
+    "weight": "47.0"
+  },
+  {
+    "no": "688",
+    "name": "binacle",
+    "height": "0.5",
+    "weight": "31.0"
+  },
+  {
+    "no": "689",
+    "name": "barbaracle",
+    "height": "1.3",
+    "weight": "96.0"
+  },
+  {
+    "no": "690",
+    "name": "skrelp",
+    "height": "0.5",
+    "weight": "7.3"
+  },
+  {
+    "no": "691",
+    "name": "dragalge",
+    "height": "1.8",
+    "weight": "81.5"
+  },
+  {
+    "no": "692",
+    "name": "clauncher",
+    "height": "0.5",
+    "weight": "8.3"
+  },
+  {
+    "no": "693",
+    "name": "clawitzer",
+    "height": "1.3",
+    "weight": "35.3"
+  },
+  {
+    "no": "694",
+    "name": "helioptile",
+    "height": "0.5",
+    "weight": "6.0"
+  },
+  {
+    "no": "695",
+    "name": "heliolisk",
+    "height": "1.0",
+    "weight": "21.0"
+  },
+  {
+    "no": "696",
+    "name": "tyrunt",
+    "height": "0.8",
+    "weight": "26.0"
+  },
+  {
+    "no": "697",
+    "name": "tyrantrum",
+    "height": "2.5",
+    "weight": "270.0"
+  },
+  {
+    "no": "698",
+    "name": "amaura",
+    "height": "1.3",
+    "weight": "25.2"
+  },
+  {
+    "no": "699",
+    "name": "aurorus",
+    "height": "2.7",
+    "weight": "225.0"
+  },
+  {
+    "no": "700",
+    "name": "sylveon",
+    "height": "1.0",
+    "weight": "23.5"
+  },
+  {
+    "no": "701",
+    "name": "hawlucha",
+    "height": "0.8",
+    "weight": "21.5"
+  },
+  {
+    "no": "702",
+    "name": "dedenne",
+    "height": "0.2",
+    "weight": "2.2"
+  },
+  {
+    "no": "703",
+    "name": "carbink",
+    "height": "0.3",
+    "weight": "5.7"
+  },
+  {
+    "no": "704",
+    "name": "goomy",
+    "height": "0.3",
+    "weight": "2.8"
+  },
+  {
+    "no": "705",
+    "name": "sliggoo",
+    "height": "0.8",
+    "weight": "17.5"
+  },
+  {
+    "no": "706",
+    "name": "goodra",
+    "height": "2.0",
+    "weight": "150.5"
+  },
+  {
+    "no": "707",
+    "name": "klefki",
+    "height": "0.2",
+    "weight": "3.0"
+  },
+  {
+    "no": "708",
+    "name": "phantump",
+    "height": "0.4",
+    "weight": "7.0"
+  },
+  {
+    "no": "709",
+    "name": "trevenant",
+    "height": "1.5",
+    "weight": "71.0"
+  },
+  {
+    "no": "710",
+    "name": "pumpkaboo",
+    "height": "0.4",
+    "weight": "5.0"
+  },
+  {
+    "no": "710",
+    "name": "pumpkaboo",
+    "height": "0.4",
+    "weight": "5.0"
+  },
+  {
+    "no": "710",
+    "name": "pumpkaboo",
+    "height": "0.4",
+    "weight": "5.0"
+  },
+  {
+    "no": "710",
+    "name": "pumpkaboo",
+    "height": "0.4",
+    "weight": "5.0"
+  },
+  {
+    "no": "711",
+    "name": "gourgeist",
+    "height": "0.9",
+    "weight": "12.5"
+  },
+  {
+    "no": "711",
+    "name": "gourgeist",
+    "height": "0.9",
+    "weight": "12.5"
+  },
+  {
+    "no": "711",
+    "name": "gourgeist",
+    "height": "0.9",
+    "weight": "12.5"
+  },
+  {
+    "no": "711",
+    "name": "gourgeist",
+    "height": "0.9",
+    "weight": "12.5"
+  },
+  {
+    "no": "712",
+    "name": "bergmite",
+    "height": "1.0",
+    "weight": "99.5"
+  },
+  {
+    "no": "713",
+    "name": "avalugg",
+    "height": "2.0",
+    "weight": "505.0"
+  },
+  {
+    "no": "714",
+    "name": "noibat",
+    "height": "0.5",
+    "weight": "8.0"
+  },
+  {
+    "no": "715",
+    "name": "noivern",
+    "height": "1.5",
+    "weight": "85.0"
+  },
+  {
+    "no": "716",
+    "name": "xerneas",
+    "height": "3.0",
+    "weight": "215.0"
+  },
+  {
+    "no": "717",
+    "name": "yveltal",
+    "height": "5.8",
+    "weight": "203.0"
+  },
+  {
+    "no": "718",
+    "name": "zygarde",
+    "height": "5.0",
+    "weight": "305.0"
+  },
+  {
+    "no": "718",
+    "name": "zygarde",
+    "height": "5.0",
+    "weight": "305.0"
+  },
+  {
+    "no": "718",
+    "name": "zygarde",
+    "height": "5.0",
+    "weight": "305.0"
+  },
+  {
+    "no": "719",
+    "name": "diancie",
+    "height": "0.7",
+    "weight": "8.8"
+  },
+  {
+    "no": "719",
+    "name": "diancie",
+    "height": "0.7",
+    "weight": "8.8"
+  },
+  {
+    "no": "720",
+    "name": "hoopa",
+    "height": "0.5",
+    "weight": "9.0"
+  },
+  {
+    "no": "720",
+    "name": "hoopa",
+    "height": "0.5",
+    "weight": "9.0"
+  },
+  {
+    "no": "721",
+    "name": "volcanion",
+    "height": "1.7",
+    "weight": "195.0"
+  },
+  {
+    "no": "722",
+    "name": "rowlet",
+    "height": "0.3",
+    "weight": "1.5"
+  },
+  {
+    "no": "723",
+    "name": "dartrix",
+    "height": "0.7",
+    "weight": "16.0"
+  },
+  {
+    "no": "724",
+    "name": "decidueye",
+    "height": "1.6",
+    "weight": "36.6"
+  },
+  {
+    "no": "725",
+    "name": "litten",
+    "height": "0.4",
+    "weight": "4.3"
+  },
+  {
+    "no": "726",
+    "name": "torracat",
+    "height": "0.7",
+    "weight": "25.0"
+  },
+  {
+    "no": "727",
+    "name": "incineroar",
+    "height": "1.8",
+    "weight": "83.0"
+  },
+  {
+    "no": "728",
+    "name": "popplio",
+    "height": "0.4",
+    "weight": "7.5"
+  },
+  {
+    "no": "729",
+    "name": "brionne",
+    "height": "0.6",
+    "weight": "17.5"
+  },
+  {
+    "no": "730",
+    "name": "primarina",
+    "height": "1.8",
+    "weight": "44.0"
+  },
+  {
+    "no": "731",
+    "name": "pikipek",
+    "height": "0.3",
+    "weight": "1.2"
+  },
+  {
+    "no": "732",
+    "name": "trumbeak",
+    "height": "0.6",
+    "weight": "14.8"
+  },
+  {
+    "no": "733",
+    "name": "toucannon",
+    "height": "1.1",
+    "weight": "26.0"
+  },
+  {
+    "no": "734",
+    "name": "yungoos",
+    "height": "0.4",
+    "weight": "6.0"
+  },
+  {
+    "no": "735",
+    "name": "gumshoos",
+    "height": "0.7",
+    "weight": "14.2"
+  },
+  {
+    "no": "736",
+    "name": "grubbin",
+    "height": "0.4",
+    "weight": "4.4"
+  },
+  {
+    "no": "737",
+    "name": "charjabug",
+    "height": "0.5",
+    "weight": "10.5"
+  },
+  {
+    "no": "738",
+    "name": "vikavolt",
+    "height": "1.5",
+    "weight": "45.0"
+  },
+  {
+    "no": "739",
+    "name": "crabrawler",
+    "height": "0.6",
+    "weight": "7.0"
+  },
+  {
+    "no": "740",
+    "name": "crabominable",
+    "height": "1.7",
+    "weight": "180.0"
+  },
+  {
+    "no": "741",
+    "name": "oricorio",
+    "height": "0.6",
+    "weight": "3.4"
+  },
+  {
+    "no": "741",
+    "name": "oricorio",
+    "height": "0.6",
+    "weight": "3.4"
+  },
+  {
+    "no": "741",
+    "name": "oricorio",
+    "height": "0.6",
+    "weight": "3.4"
+  },
+  {
+    "no": "741",
+    "name": "oricorio",
+    "height": "0.6",
+    "weight": "3.4"
+  },
+  {
+    "no": "742",
+    "name": "cutiefly",
+    "height": "0.1",
+    "weight": "0.2"
+  },
+  {
+    "no": "743",
+    "name": "ribombee",
+    "height": "0.2",
+    "weight": "0.5"
+  },
+  {
+    "no": "744",
+    "name": "rockruff",
+    "height": "0.5",
+    "weight": "9.2"
+  },
+  {
+    "no": "744",
+    "name": "rockruff",
+    "height": "0.5",
+    "weight": "9.2"
+  },
+  {
+    "no": "745",
+    "name": "lycanroc",
+    "height": "0.8",
+    "weight": "25.0"
+  },
+  {
+    "no": "745",
+    "name": "lycanroc",
+    "height": "0.8",
+    "weight": "25.0"
+  },
+  {
+    "no": "745",
+    "name": "lycanroc",
+    "height": "0.8",
+    "weight": "25.0"
+  },
+  {
+    "no": "746",
+    "name": "wishiwashi",
+    "height": "0.2",
+    "weight": "0.3"
+  },
+  {
+    "no": "746",
+    "name": "wishiwashi",
+    "height": "0.2",
+    "weight": "0.3"
+  },
+  {
+    "no": "747",
+    "name": "mareanie",
+    "height": "0.4",
+    "weight": "8.0"
+  },
+  {
+    "no": "748",
+    "name": "toxapex",
+    "height": "0.7",
+    "weight": "14.5"
+  },
+  {
+    "no": "749",
+    "name": "mudbray",
+    "height": "1.0",
+    "weight": "110.0"
+  },
+  {
+    "no": "750",
+    "name": "mudsdale",
+    "height": "2.5",
+    "weight": "920.0"
+  },
+  {
+    "no": "751",
+    "name": "dewpider",
+    "height": "0.3",
+    "weight": "4.0"
+  },
+  {
+    "no": "752",
+    "name": "araquanid",
+    "height": "1.8",
+    "weight": "82.0"
+  },
+  {
+    "no": "753",
+    "name": "fomantis",
+    "height": "0.3",
+    "weight": "1.5"
+  },
+  {
+    "no": "754",
+    "name": "lurantis",
+    "height": "0.9",
+    "weight": "18.5"
+  },
+  {
+    "no": "755",
+    "name": "morelull",
+    "height": "0.2",
+    "weight": "1.5"
+  },
+  {
+    "no": "756",
+    "name": "shiinotic",
+    "height": "1.0",
+    "weight": "11.5"
+  },
+  {
+    "no": "757",
+    "name": "salandit",
+    "height": "0.6",
+    "weight": "4.8"
+  },
+  {
+    "no": "758",
+    "name": "salazzle",
+    "height": "1.2",
+    "weight": "22.2"
+  },
+  {
+    "no": "759",
+    "name": "stufful",
+    "height": "0.5",
+    "weight": "6.8"
+  },
+  {
+    "no": "760",
+    "name": "bewear",
+    "height": "2.1",
+    "weight": "135.0"
+  },
+  {
+    "no": "761",
+    "name": "bounsweet",
+    "height": "0.3",
+    "weight": "3.2"
+  },
+  {
+    "no": "762",
+    "name": "steenee",
+    "height": "0.7",
+    "weight": "8.2"
+  },
+  {
+    "no": "763",
+    "name": "tsareena",
+    "height": "1.2",
+    "weight": "21.4"
+  },
+  {
+    "no": "764",
+    "name": "comfey",
+    "height": "0.1",
+    "weight": "0.3"
+  },
+  {
+    "no": "765",
+    "name": "oranguru",
+    "height": "1.5",
+    "weight": "76.0"
+  },
+  {
+    "no": "766",
+    "name": "passimian",
+    "height": "2.0",
+    "weight": "82.8"
+  },
+  {
+    "no": "767",
+    "name": "wimpod",
+    "height": "0.5",
+    "weight": "12.0"
+  },
+  {
+    "no": "768",
+    "name": "golisopod",
+    "height": "2.0",
+    "weight": "108.0"
+  },
+  {
+    "no": "769",
+    "name": "sandygast",
+    "height": "0.5",
+    "weight": "70.0"
+  },
+  {
+    "no": "770",
+    "name": "palossand",
+    "height": "1.3",
+    "weight": "250.0"
+  },
+  {
+    "no": "771",
+    "name": "pyukumuku",
+    "height": "0.3",
+    "weight": "1.2"
+  },
+  {
+    "no": "772",
+    "name": "type-null",
+    "height": "1.9",
+    "weight": "120.5"
+  },
+  {
+    "no": "773",
+    "name": "silvally",
+    "height": "2.3",
+    "weight": "100.5"
+  },
+  {
+    "no": "774",
+    "name": "minior",
+    "height": "0.3",
+    "weight": "40.0"
+  },
+  {
+    "no": "774",
+    "name": "minior",
+    "height": "0.3",
+    "weight": "40.0"
+  },
+  {
+    "no": "775",
+    "name": "komala",
+    "height": "0.4",
+    "weight": "19.9"
+  },
+  {
+    "no": "776",
+    "name": "turtonator",
+    "height": "2.0",
+    "weight": "212.0"
+  },
+  {
+    "no": "777",
+    "name": "togedemaru",
+    "height": "0.3",
+    "weight": "3.3"
+  },
+  {
+    "no": "778",
+    "name": "mimikyu",
+    "height": "0.2",
+    "weight": "0.7"
+  },
+  {
+    "no": "779",
+    "name": "bruxish",
+    "height": "0.9",
+    "weight": "19.0"
+  },
+  {
+    "no": "780",
+    "name": "drampa",
+    "height": "3.0",
+    "weight": "185.0"
+  },
+  {
+    "no": "781",
+    "name": "dhelmise",
+    "height": "3.9",
+    "weight": "210.0"
+  },
+  {
+    "no": "782",
+    "name": "jangmo-o",
+    "height": "0.6",
+    "weight": "29.7"
+  },
+  {
+    "no": "783",
+    "name": "hakamo-o",
+    "height": "1.2",
+    "weight": "47.0"
+  },
+  {
+    "no": "784",
+    "name": "kommo-o",
+    "height": "1.6",
+    "weight": "78.2"
+  },
+  {
+    "no": "785",
+    "name": "tapu-koko",
+    "height": "1.8",
+    "weight": "20.5"
+  },
+  {
+    "no": "786",
+    "name": "tapu-lele",
+    "height": "1.2",
+    "weight": "18.6"
+  },
+  {
+    "no": "787",
+    "name": "tapu-bulu",
+    "height": "1.9",
+    "weight": "45.5"
+  },
+  {
+    "no": "788",
+    "name": "tapu-fini",
+    "height": "1.3",
+    "weight": "21.2"
+  },
+  {
+    "no": "789",
+    "name": "cosmog",
+    "height": "0.2",
+    "weight": "0.1"
+  },
+  {
+    "no": "790",
+    "name": "cosmoem",
+    "height": "0.1",
+    "weight": "999.9"
+  },
+  {
+    "no": "791",
+    "name": "solgaleo",
+    "height": "3.4",
+    "weight": "230.0"
+  },
+  {
+    "no": "792",
+    "name": "lunala",
+    "height": "4.0",
+    "weight": "120.0"
+  },
+  {
+    "no": "793",
+    "name": "nihilego",
+    "height": "1.2",
+    "weight": "55.5"
+  },
+  {
+    "no": "794",
+    "name": "buzzwole",
+    "height": "2.4",
+    "weight": "333.6"
+  },
+  {
+    "no": "795",
+    "name": "pheromosa",
+    "height": "1.8",
+    "weight": "25.0"
+  },
+  {
+    "no": "796",
+    "name": "xurkitree",
+    "height": "3.8",
+    "weight": "100.0"
+  },
+  {
+    "no": "797",
+    "name": "celesteela",
+    "height": "9.2",
+    "weight": "999.9"
+  },
+  {
+    "no": "798",
+    "name": "kartana",
+    "height": "0.3",
+    "weight": "0.1"
+  },
+  {
+    "no": "799",
+    "name": "guzzlord",
+    "height": "5.5",
+    "weight": "888.0"
+  },
+  {
+    "no": "800",
+    "name": "necrozma",
+    "height": "2.4",
+    "weight": "230.0"
+  },
+  {
+    "no": "800",
+    "name": "necrozma",
+    "height": "2.4",
+    "weight": "230.0"
+  },
+  {
+    "no": "800",
+    "name": "necrozma",
+    "height": "2.4",
+    "weight": "230.0"
+  },
+  {
+    "no": "800",
+    "name": "necrozma",
+    "height": "2.4",
+    "weight": "230.0"
+  },
+  {
+    "no": "801",
+    "name": "magearna",
+    "height": "1.0",
+    "weight": "80.5"
+  },
+  {
+    "no": "802",
+    "name": "marshadow",
+    "height": "0.7",
+    "weight": "22.2"
+  },
+  {
+    "no": "803",
+    "name": "poipole",
+    "height": "0.6",
+    "weight": "1.8"
+  },
+  {
+    "no": "804",
+    "name": "naganadel",
+    "height": "3.6",
+    "weight": "150.0"
+  },
+  {
+    "no": "805",
+    "name": "stakataka",
+    "height": "5.5",
+    "weight": "820.0"
+  },
+  {
+    "no": "806",
+    "name": "blacephalon",
+    "height": "1.8",
+    "weight": "13.0"
+  },
+  {
+    "no": "807",
+    "name": "zeraora",
+    "height": "1.5",
+    "weight": "44.5"
+  },
+  {
+    "no": "808",
+    "name": "meltan",
+    "height": "0.2",
+    "weight": "8.0"
+  },
+  {
+    "no": "809",
+    "name": "melmetal",
+    "height": "2.5",
+    "weight": "800.0"
+  },
+  {
+    "no": "810",
+    "name": "grookey",
+    "height": "0.3",
+    "weight": "5.0"
+  },
+  {
+    "no": "811",
+    "name": "thwackey",
+    "height": "0.7",
+    "weight": "14.0"
+  },
+  {
+    "no": "812",
+    "name": "rillaboom",
+    "height": "2.1",
+    "weight": "90.0"
+  },
+  {
+    "no": "813",
+    "name": "scorbunny",
+    "height": "0.3",
+    "weight": "4.5"
+  },
+  {
+    "no": "814",
+    "name": "raboot",
+    "height": "0.6",
+    "weight": "9.0"
+  },
+  {
+    "no": "815",
+    "name": "cinderace",
+    "height": "1.4",
+    "weight": "33.0"
+  },
+  {
+    "no": "816",
+    "name": "sobble",
+    "height": "0.3",
+    "weight": "4.0"
+  },
+  {
+    "no": "817",
+    "name": "drizzile",
+    "height": "0.7",
+    "weight": "11.5"
+  },
+  {
+    "no": "818",
+    "name": "inteleon",
+    "height": "1.9",
+    "weight": "45.2"
+  },
+  {
+    "no": "819",
+    "name": "skwovet",
+    "height": "0.3",
+    "weight": "2.5"
+  },
+  {
+    "no": "820",
+    "name": "greedent",
+    "height": "0.6",
+    "weight": "6.0"
+  },
+  {
+    "no": "821",
+    "name": "rookidee",
+    "height": "0.2",
+    "weight": "1.8"
+  },
+  {
+    "no": "822",
+    "name": "corvisquire",
+    "height": "0.8",
+    "weight": "16.0"
+  },
+  {
+    "no": "823",
+    "name": "corviknight",
+    "height": "2.2",
+    "weight": "75.0"
+  },
+  {
+    "no": "824",
+    "name": "blipbug",
+    "height": "0.4",
+    "weight": "8.0"
+  },
+  {
+    "no": "825",
+    "name": "dottler",
+    "height": "0.4",
+    "weight": "19.5"
+  },
+  {
+    "no": "826",
+    "name": "orbeetle",
+    "height": "0.4",
+    "weight": "40.8"
+  },
+  {
+    "no": "827",
+    "name": "nickit",
+    "height": "0.6",
+    "weight": "8.9"
+  },
+  {
+    "no": "828",
+    "name": "thievul",
+    "height": "1.2",
+    "weight": "19.9"
+  },
+  {
+    "no": "829",
+    "name": "gossifleur",
+    "height": "0.4",
+    "weight": "2.2"
+  },
+  {
+    "no": "830",
+    "name": "eldegoss",
+    "height": "0.5",
+    "weight": "2.5"
+  },
+  {
+    "no": "831",
+    "name": "wooloo",
+    "height": "0.6",
+    "weight": "6.0"
+  },
+  {
+    "no": "832",
+    "name": "dubwool",
+    "height": "1.3",
+    "weight": "43.0"
+  },
+  {
+    "no": "833",
+    "name": "chewtle",
+    "height": "0.3",
+    "weight": "8.5"
+  },
+  {
+    "no": "834",
+    "name": "drednaw",
+    "height": "1.0",
+    "weight": "115.5"
+  },
+  {
+    "no": "835",
+    "name": "yamper",
+    "height": "0.3",
+    "weight": "13.5"
+  },
+  {
+    "no": "836",
+    "name": "boltund",
+    "height": "1.0",
+    "weight": "34.0"
+  },
+  {
+    "no": "837",
+    "name": "rolycoly",
+    "height": "0.3",
+    "weight": "12.0"
+  },
+  {
+    "no": "838",
+    "name": "carkol",
+    "height": "1.1",
+    "weight": "78.0"
+  },
+  {
+    "no": "839",
+    "name": "coalossal",
+    "height": "2.8",
+    "weight": "310.5"
+  },
+  {
+    "no": "840",
+    "name": "applin",
+    "height": "0.2",
+    "weight": "0.5"
+  },
+  {
+    "no": "841",
+    "name": "flapple",
+    "height": "0.3",
+    "weight": "1.0"
+  },
+  {
+    "no": "842",
+    "name": "appletun",
+    "height": "0.4",
+    "weight": "13.0"
+  },
+  {
+    "no": "843",
+    "name": "silicobra",
+    "height": "2.2",
+    "weight": "7.6"
+  },
+  {
+    "no": "844",
+    "name": "sandaconda",
+    "height": "3.8",
+    "weight": "65.5"
+  },
+  {
+    "no": "845",
+    "name": "cramorant",
+    "height": "0.8",
+    "weight": "18.0"
+  },
+  {
+    "no": "846",
+    "name": "arrokuda",
+    "height": "0.5",
+    "weight": "1.0"
+  },
+  {
+    "no": "847",
+    "name": "barraskewda",
+    "height": "1.3",
+    "weight": "30.0"
+  },
+  {
+    "no": "848",
+    "name": "toxel",
+    "height": "0.4",
+    "weight": "11.0"
+  },
+  {
+    "no": "849",
+    "name": "toxtricity",
+    "height": "1.6",
+    "weight": "40.0"
+  },
+  {
+    "no": "849",
+    "name": "toxtricity",
+    "height": "1.6",
+    "weight": "40.0"
+  },
+  {
+    "no": "850",
+    "name": "sizzlipede",
+    "height": "0.7",
+    "weight": "1.0"
+  },
+  {
+    "no": "851",
+    "name": "centiskorch",
+    "height": "3.0",
+    "weight": "120.0"
+  },
+  {
+    "no": "852",
+    "name": "clobbopus",
+    "height": "0.6",
+    "weight": "4.0"
+  },
+  {
+    "no": "853",
+    "name": "grapploct",
+    "height": "1.6",
+    "weight": "39.0"
+  },
+  {
+    "no": "854",
+    "name": "sinistea",
+    "height": "0.1",
+    "weight": "0.2"
+  },
+  {
+    "no": "855",
+    "name": "polteageist",
+    "height": "0.2",
+    "weight": "0.4"
+  },
+  {
+    "no": "856",
+    "name": "hatenna",
+    "height": "0.4",
+    "weight": "3.4"
+  },
+  {
+    "no": "857",
+    "name": "hattrem",
+    "height": "0.6",
+    "weight": "4.8"
+  },
+  {
+    "no": "858",
+    "name": "hatterene",
+    "height": "2.1",
+    "weight": "5.0"
+  },
+  {
+    "no": "859",
+    "name": "impidimp",
+    "height": "0.4",
+    "weight": "5.5"
+  },
+  {
+    "no": "860",
+    "name": "morgrem",
+    "height": "0.8",
+    "weight": "12.5"
+  },
+  {
+    "no": "861",
+    "name": "grimmsnarl",
+    "height": "1.5",
+    "weight": "61.0"
+  },
+  {
+    "no": "862",
+    "name": "obstagoon",
+    "height": "1.6",
+    "weight": "46.0"
+  },
+  {
+    "no": "863",
+    "name": "perrserker",
+    "height": "0.8",
+    "weight": "28.0"
+  },
+  {
+    "no": "864",
+    "name": "cursola",
+    "height": "1.0",
+    "weight": "0.4"
+  },
+  {
+    "no": "865",
+    "name": "sirfetchd",
+    "height": "0.8",
+    "weight": "117.0"
+  },
+  {
+    "no": "866",
+    "name": "mr-mime",
+    "height": "1.3",
+    "weight": "54.5"
+  },
+  {
+    "no": "867",
+    "name": "runerigus",
+    "height": "1.6",
+    "weight": "66.6"
+  },
+  {
+    "no": "868",
+    "name": "milcery",
+    "height": "0.2",
+    "weight": "0.3"
+  },
+  {
+    "no": "869",
+    "name": "alcremie",
+    "height": "0.3",
+    "weight": "0.5"
+  },
+  {
+    "no": "870",
+    "name": "falinks",
+    "height": "3.0",
+    "weight": "62.0"
+  },
+  {
+    "no": "871",
+    "name": "pincurchin",
+    "height": "0.3",
+    "weight": "1.0"
+  },
+  {
+    "no": "872",
+    "name": "snom",
+    "height": "0.3",
+    "weight": "3.8"
+  },
+  {
+    "no": "873",
+    "name": "frosmoth",
+    "height": "1.3",
+    "weight": "42.0"
+  },
+  {
+    "no": "874",
+    "name": "stonjourner",
+    "height": "2.5",
+    "weight": "520.0"
+  },
+  {
+    "no": "875",
+    "name": "eiscue",
+    "height": "1.4",
+    "weight": "89.0"
+  },
+  {
+    "no": "875",
+    "name": "eiscue",
+    "height": "1.4",
+    "weight": "89.0"
+  },
+  {
+    "no": "876",
+    "name": "indeedee",
+    "height": "0.9",
+    "weight": "28.0"
+  },
+  {
+    "no": "876",
+    "name": "indeedee",
+    "height": "0.9",
+    "weight": "28.0"
+  },
+  {
+    "no": "877",
+    "name": "morpeko",
+    "height": "0.3",
+    "weight": "3.0"
+  },
+  {
+    "no": "877",
+    "name": "morpeko",
+    "height": "0.3",
+    "weight": "3.0"
+  },
+  {
+    "no": "878",
+    "name": "cufant",
+    "height": "1.2",
+    "weight": "100.0"
+  },
+  {
+    "no": "879",
+    "name": "copperajah",
+    "height": "3.0",
+    "weight": "650.0"
+  },
+  {
+    "no": "880",
+    "name": "dracozolt",
+    "height": "1.8",
+    "weight": "190.0"
+  },
+  {
+    "no": "881",
+    "name": "arctozolt",
+    "height": "2.3",
+    "weight": "150.0"
+  },
+  {
+    "no": "882",
+    "name": "dracovish",
+    "height": "2.3",
+    "weight": "215.0"
+  },
+  {
+    "no": "883",
+    "name": "arctovish",
+    "height": "2.0",
+    "weight": "175.0"
+  },
+  {
+    "no": "884",
+    "name": "duraludon",
+    "height": "1.8",
+    "weight": "40.0"
+  },
+  {
+    "no": "885",
+    "name": "dreepy",
+    "height": "0.5",
+    "weight": "2.0"
+  },
+  {
+    "no": "886",
+    "name": "drakloak",
+    "height": "1.4",
+    "weight": "11.0"
+  },
+  {
+    "no": "887",
+    "name": "dragapult",
+    "height": "3.0",
+    "weight": "50.0"
+  },
+  {
+    "no": "888",
+    "name": "zacian",
+    "height": "2.8",
+    "weight": "355.0"
+  },
+  {
+    "no": "888",
+    "name": "zacian",
+    "height": "2.8",
+    "weight": "355.0"
+  },
+  {
+    "no": "889",
+    "name": "zamazenta",
+    "height": "2.9",
+    "weight": "785.0"
+  },
+  {
+    "no": "889",
+    "name": "zamazenta",
+    "height": "2.9",
+    "weight": "785.0"
+  },
+  {
+    "no": "890",
+    "name": "eternatus",
+    "height": "20.0",
+    "weight": "950.0"
+  },
+  {
+    "no": "890",
+    "name": "eternatus",
+    "height": "20.0",
+    "weight": "950.0"
+  }
+]

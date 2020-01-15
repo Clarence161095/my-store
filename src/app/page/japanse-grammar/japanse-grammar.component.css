@@ -1,0 +1,32 @@
+mat-divider {
+    margin: 10px 0px 10px 0px;
+}
+
+.title-page {
+    margin-top: 10px;
+}
+
+.card-grammar {
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.top-page {
+    margin-top: 15px;
+    background-color: #FAFAFA;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.scrolling-goto-top {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 5px;
+    outline: none;
+}

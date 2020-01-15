@@ -1,0 +1,47 @@
+<!-- Nếu là Pokemon shiny sẽ hiện block này-->
+<div *ngIf="checkShiny()">
+  <div class="pokemon-contant">
+
+    <!-- Pokemon-->
+    <div class="backgroud-pokemon" [ngClass]="{'animation-attack': attack}" fxLayoutAlign="center end">
+      <img [src]="link" [alt]="name" class="pokemon">
+    </div>
+
+    <!-- Bệ đứng của pokemon-->
+    <img [src]="linkBackGround" class="battle-backs">
+  </div>
+  <div class="effect-background" fxLayoutAlign="center end">
+
+    <!-- Hiệu ứng toả sáng-->
+    <img src="../../../assets/data/pokemon-material/shiny-background/water-shine-1.gif" class="shiny-first">
+    <img src="../../../assets/data/pokemon-material/shiny-background/shiny_effect_blue.gif" class="shiny-second">
+
+    <!-- Hiệu ứng đòn đánh -->
+    <div class="attack-enemy" fxLayout="column" fxLayoutAlign="center center">
+      <img *ngIf="attack" [src]="linkEffectSkill">
+    </div>
+
+  </div>
+</div>
+
+<!-- Nếu là Pokemon shiny sẽ hiện block này-->
+<div *ngIf="!checkShiny()">
+  <div class="pokemon-contant">
+
+    <!-- Pokemon-->
+    <div class="backgroud-pokemon" [ngClass]="{'animation-attack': attack}" fxLayoutAlign="center end">
+      <img [src]="link" [alt]="name" class="pokemon">
+    </div>
+
+    <!-- Bệ đứng của pokemon-->
+    <img [src]="linkBackGround" class="battle-backs">
+  </div>
+  <div class="effect-background" fxLayoutAlign="center end">
+
+    <!-- Hiệu ứng đòn đánh -->
+    <div class="attack-enemy" fxLayout="column" fxLayoutAlign="center center">
+      <img *ngIf="attack" [src]="linkEffectSkill">
+    </div>
+
+  </div>
+</div>

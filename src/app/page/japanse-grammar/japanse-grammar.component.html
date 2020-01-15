@@ -1,0 +1,76 @@
+<app-menu></app-menu>
+
+<div class="container" fxLayout="column">
+  <div fxLayout="column" class="top-page">
+    <div class="top-space"></div>
+    <h2 fxLayoutAlign="center none" (click)="openFilter()" class="title-page">Japanese Grammar
+    </h2>
+
+    <mat-form-field appearance="outline" *ngIf="filter">
+      <mat-label>Level</mat-label>
+      <mat-select (selectionChange)="changeLevel($event.value)">
+        <mat-option *ngFor="let level of levelList" [value]="level">
+          {{ level }}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" *ngIf="filter">
+      <mat-label>Search</mat-label>
+      <input matInput placeholder="What do you want to search?" (keyup)="search($event)">
+    </mat-form-field>
+
+    <mat-divider></mat-divider>
+
+    <h3 fxLayoutAlign="center">List Grammars: {{ listData.length }}</h3>
+  </div>
+
+  <div class="list-grammar">
+    <mat-card fxLayout="column" class="card-grammar" *ngFor="let gram of listData">
+      <h4 class="bold">
+        {{ gram.description }}
+      </h4>
+      <h5 class="bold">
+        {{ gram.name }}
+      </h5>
+      <div fxLayout="column">
+        <h5 class="bold">
+          Meaning:
+        </h5>
+        <p *ngFor="let mean of gram.meaning">
+          {{ mean.value }}
+        </p>
+      </div>
+      <div fxLayout="column">
+        <h5 class="bold">
+          How to use:
+        </h5>
+        <p *ngFor="let u of gram.use">
+          {{ u.value }}
+        </p>
+      </div>
+      <div fxLayout="column">
+        <h5 class="bold">
+          Example:
+        </h5>
+        <div fxLayout="column" *ngFor="let sen of gram.sentence;let i = index">
+          <h5 class="bold">
+            Ex {{ ++i }}:
+          </h5>
+          <p class="bold">
+            {{ sen.reibunJA }}
+          </p>
+          <p>
+            {{ sen.reibunVN }}
+          </p>
+          <p>
+            /{{ sen.reibunRO }}/
+          </p>
+        </div>
+      </div>
+    </mat-card>
+  </div>
+
+</div>
+
+<button class="scrolling-goto-top" *ngIf="isShow" (click)="gotoTop()">👆</button>
