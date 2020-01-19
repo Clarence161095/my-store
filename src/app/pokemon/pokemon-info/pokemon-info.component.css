@@ -5,18 +5,30 @@
     -webkit-transform: scale(1);
     -o-transform: scale(1);
     -ms-transform: scale(1);
+    transition: 1s all;
+}
+
+.pokeball {
+    width: 40px;
+    transform: scale(1);
+    -moz-transform: scale(1);
+    -webkit-transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    transition: 1s all;
 }
 
 .backgroud-pokemon {
-    width: 150px;
-    height: 140px;
-    margin-left: 50px;
+    width: 110px;
+    height: 120px;
+    margin-left: 65px;
     position: absolute;
+    transition: .1s all;
 }
 
 .battle-backs {
     width: 250px;
-    margin-top: 70px;
+    margin-top: 50px;
 }
 
 .pokemon-contant {
@@ -26,40 +38,64 @@
 .effect-background {
     width: 250px;
     z-index: 1000;
+    position: absolute;
 }
 
 .effect-background .shiny-first {
     width: 200px;
-    height: 195px;
+    height: 150px;
     z-index: 1000;
     position: absolute;
 }
 
 .effect-background .shiny-second {
     width: 200px;
-    height: 195px;
+    height: 150px;
     z-index: 1000;
     position: absolute;
 }
 
-.attack-enemy {
+.attack {
     width: 200px;
-    height: 195px;
-    z-index: 1000;
+    height: 150px;
+    z-index: 1001;
 }
 
-.attack-enemy img {
+.attack img {
     width: 100px;
 }
 
-.animation-attack {
-    -webkit-animation-name: example;
+.blood-bar {
+    margin-top: 5px;
+    width: 200px;
+    height: 150px;
+    z-index: 1002;
+}
+
+.dame {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    color: red;
+    font-weight: bold;
+    -webkit-animation-name: dame-animation;
     /* Safari 4.0 - 8.0 */
     -webkit-animation-duration: 0.25s;
     /* Safari 4.0 - 8.0 */
     -webkit-animation-delay: 0s;
     /* Safari 4.0 - 8.0 */
-    animation-name: example;
+    animation-name: dame-animation;
+    animation-duration: 0.25s;
+    animation-delay: -0s;
+}
+
+.animation-attack {
+    -webkit-animation-name: animation-attack-animation;
+    /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 0.25s;
+    /* Safari 4.0 - 8.0 */
+    -webkit-animation-delay: 0s;
+    /* Safari 4.0 - 8.0 */
+    animation-name: animation-attack-animation;
     animation-duration: 0.25s;
     animation-delay: -0s;
 }
@@ -67,7 +103,7 @@
 
 /* Safari 4.0 - 8.0 */
 
-@-webkit-keyframes example {
+@-webkit-keyframes animation-attack-animation {
     0% {
         padding-left: 15px;
         padding-right: 0px;
@@ -93,7 +129,7 @@
 
 /* Standard syntax */
 
-@keyframes example {
+@keyframes animation-attack-animation {
     0% {
         padding-left: 15px;
         padding-right: 0px;
@@ -113,5 +149,57 @@
     100% {
         padding-left: 15px;
         padding-right: 0px;
+    }
+}
+
+
+/* Safari 4.0 - 8.0 */
+
+@-webkit-keyframes dame-animation {
+    0% {
+        padding-left: 0px;
+        padding-right: 10px;
+    }
+    25% {
+        padding-left: 10px;
+        padding-right: 0px;
+    }
+    50% {
+        padding-left: 0px;
+        padding-right: 10px;
+    }
+    75% {
+        padding-left: 10px;
+        padding-right: 0px;
+    }
+    100% {
+        padding-left: 0px;
+        padding-right: 10px;
+    }
+}
+
+
+/* Standard syntax */
+
+@keyframes dame-animation {
+    0% {
+        padding-left: 0px;
+        padding-right: 10px;
+    }
+    25% {
+        padding-left: 10px;
+        padding-right: 0px;
+    }
+    50% {
+        padding-left: 0px;
+        padding-right: 10px;
+    }
+    75% {
+        padding-left: 10px;
+        padding-right: 0px;
+    }
+    100% {
+        padding-left: 0px;
+        padding-right: 10px;
     }
 }

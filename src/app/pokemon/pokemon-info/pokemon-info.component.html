@@ -4,7 +4,8 @@
 
     <!-- Pokemon-->
     <div class="backgroud-pokemon" [ngClass]="{'animation-attack': attack}" fxLayoutAlign="center end">
-      <img [src]="link" [alt]="name" class="pokemon">
+      <img *ngIf="blood > 0" [src]="link" [alt]="name" class="pokemon">
+      <img *ngIf="blood <= 0" [src]="linkPokeBall" class="pokeball">
     </div>
 
     <!-- Bệ đứng của pokemon-->
@@ -13,15 +14,33 @@
   <div class="effect-background" fxLayoutAlign="center end">
 
     <!-- Hiệu ứng toả sáng-->
-    <img src="../../../assets/data/pokemon-material/shiny-background/water-shine-1.gif" class="shiny-first">
-    <img src="../../../assets/data/pokemon-material/shiny-background/shiny_effect_blue.gif" class="shiny-second">
+    <img *ngIf="blood > 0" src="../../../assets/data/pokemon-material/shiny-background/water-shine-1.gif"
+      class="shiny-first">
+    <img *ngIf="blood > 0" src="../../../assets/data/pokemon-material/shiny-background/shiny_effect_blue.gif"
+      class="shiny-second">
 
     <!-- Hiệu ứng đòn đánh -->
-    <div class="attack-enemy" fxLayout="column" fxLayoutAlign="center center">
+    <div class="attack" fxLayout="column" fxLayoutAlign="center center">
       <img *ngIf="attack" [src]="linkEffectSkill">
     </div>
 
   </div>
+
+  <!-- Thanh hiển thị máu.-->
+  <div fxLayout="column" fxLayoutAlign="start none" class="blood-bar" fxFlex="50%">
+    <div *ngIf="blood > 0" class="progress">
+      <div class="progress-bar" role="progressbar" [style.width]="blood + '%'" [ngClass]="{'progress-bar-success': blood > 75 && blood <= 100 ,
+        'progress-bar-info': blood > 50 && blood <= 75 ,
+        'progress-bar-warning': blood > 25 && blood <= 50 ,
+        'progress-bar-danger': blood > 0 && blood <= 25 }">
+        {{ blood + '%' }}
+      </div>
+    </div>
+    <p *ngIf="attack" class="dame">
+      -{{ dame }}
+    </p>
+  </div>
+
 </div>
 
 <!-- Nếu là Pokemon shiny sẽ hiện block này-->
@@ -30,7 +49,8 @@
 
     <!-- Pokemon-->
     <div class="backgroud-pokemon" [ngClass]="{'animation-attack': attack}" fxLayoutAlign="center end">
-      <img [src]="link" [alt]="name" class="pokemon">
+      <img *ngIf="blood > 0" [src]="link" [alt]="name" class="pokemon">
+      <img *ngIf="blood <= 0" [src]="linkPokeBall" class="pokeball">
     </div>
 
     <!-- Bệ đứng của pokemon-->
@@ -39,9 +59,25 @@
   <div class="effect-background" fxLayoutAlign="center end">
 
     <!-- Hiệu ứng đòn đánh -->
-    <div class="attack-enemy" fxLayout="column" fxLayoutAlign="center center">
+    <div class="attack" fxLayout="column" fxLayoutAlign="center center">
       <img *ngIf="attack" [src]="linkEffectSkill">
     </div>
 
   </div>
+
+  <!-- Thanh hiển thị máu.-->
+  <div div fxLayout="column" fxLayoutAlign="start none" class="blood-bar" fxFlex="50%">
+    <div *ngIf="blood > 0" class="progress">
+      <div class="progress-bar" role="progressbar" [style.width]="blood + '%'" [ngClass]="{'progress-bar-success': blood > 75 && blood <= 100 ,
+        'progress-bar-info': blood > 50 && blood <= 75 ,
+        'progress-bar-warning': blood > 25 && blood <= 50 ,
+        'progress-bar-danger': blood > 0 && blood <= 25 }">
+        {{ blood + '%' }}
+      </div>
+    </div>
+    <p *ngIf="attack" class="dame">
+      -{{ dame }}
+    </p>
+  </div>
+
 </div>

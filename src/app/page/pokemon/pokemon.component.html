@@ -1,26 +1,11 @@
-<app-menu></app-menu>
+<div fxLayout="column" fxLayoutGap="20px">
+  <app-battle #battle></app-battle>
 
-<div fxLayout="column" fxLayoutAlign="center center" class="contant">
-
-  <div fxLayout="column" fxLayoutAlign="center none" fxLayoutGap="20px" style="width: 400px;">
-
-    <div fxLayout="row" fxLayoutAlign="end center">
-      <app-pokemon-info #pokeInfoChildEnemy (ngModel)="pokeInfoChild">
-      </app-pokemon-info>
-    </div>
-
-    <div fxLayout="row" fxLayoutAlign="start center">
-      <app-pokemon-info #pokeInfoChild (ngModel)="pokeInfoChild">
-      </app-pokemon-info>
-    </div>
-
-    <div fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="20px">
-      <button mat-raised-button (click)="randomPokemon()">Random Pokemon</button>
-      <div fxLayout="row" fxLayoutAlign="center center" fxLayoutGap="20px">
-        <button mat-raised-button (click)="attackEnemy()">Attack Enemy</button>
-        <button mat-raised-button (click)="attackMe()">Attack Me</button>
-      </div>
-
+  <div fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="20px">
+    <button mat-raised-button (click)="randomPokemon()">Random Pokemon</button>
+    <div fxLayout="row" fxLayoutAlign="center center" fxLayoutGap="20px">
+      <button mat-raised-button (click)="attackEnemy()">Attack Enemy</button>
+      <button mat-raised-button (click)="attackMe()">Attack Me</button>
     </div>
   </div>
 

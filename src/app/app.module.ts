@@ -21,6 +21,8 @@ import { MenuComponent } from './common/menu/menu.component';
 import { JapanseGrammarComponent } from './page/japanse-grammar/japanse-grammar.component';
 import { PokemonComponent } from './page/pokemon/pokemon.component';
 import { PokemonInfoComponent } from './pokemon/pokemon-info/pokemon-info.component';
+import { BattleComponent } from './pokemon/battle/battle.component';
+import { RegexJsonComponent } from './page/regex-json/regex-json.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +31,9 @@ import { PokemonInfoComponent } from './pokemon/pokemon-info/pokemon-info.compon
     MenuComponent,
     JapanseGrammarComponent,
     PokemonComponent,
-    PokemonInfoComponent
+    PokemonInfoComponent,
+    BattleComponent,
+    RegexJsonComponent
   ],
   imports: [
     BrowserModule,

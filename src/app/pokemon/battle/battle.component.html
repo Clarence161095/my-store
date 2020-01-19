@@ -1,0 +1,17 @@
+<div fxLayout="column" fxLayoutAlign="center center" class="contant">
+
+  <div fxLayout="column" fxLayoutAlign="center none" fxLayoutGap="20px" style="width: 400px;">
+
+    <div fxLayout="row" fxLayoutAlign="end center">
+      <app-pokemon-info #pokeInfoChildEnemy (ngModel)="pokeInfoChild">
+      </app-pokemon-info>
+    </div>
+
+    <div fxLayout="row" fxLayoutAlign="start center">
+      <app-pokemon-info #pokeInfoChild (ngModel)="pokeInfoChild">
+      </app-pokemon-info>
+    </div>
+
+  </div>
+
+</div>
